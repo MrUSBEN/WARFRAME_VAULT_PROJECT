@@ -11,8 +11,8 @@ def parse_orders(data):
 
     sell_prices = []
     buy_prices = []
-    sell_sum = 0
-    buy_sum = 0
+    # sell_sum = 0
+    # buy_sum = 0
     ##############
 
     # Get and parse JSON data
@@ -34,28 +34,30 @@ def parse_orders(data):
             buy_prices.append(item["platinum"])
     ############
 
-    # summing up all the prices
-    for items in sell_prices:
-        sell_sum += items
-    for items in buy_prices:
-        buy_sum += items
-    ############
+    # # summing up all the prices
+    # for items in sell_prices:
+    #     sell_sum += items
+    # for items in buy_prices:
+    #     buy_sum += items
+    # ############
 
     # variables
-    avg_sell = sell_sum/sellers if sellers != 0 else 0
-    avg_buy = buy_sum/buyers if buyers != 0 else 0
+    # avg_sell = sell_sum/sellers if sellers != 0 else 0
+    # avg_buy = buy_sum/buyers if buyers != 0 else 0
     min_sell = sorted(sell_prices)[0] if len(sell_prices) != 0 else 0
     max_buy = sorted(buy_prices)[-1] if len(buy_prices) != 0 else 0
+    median_price = (min_sell+max_buy)/2
     ############
 
     # Create dictionary
     data_dict["item_name"] = data["name"]
-    data_dict["sellers"] = sellers
+    data_dict["median_price"] = median_price
     data_dict["min_sell"] = min_sell
-    data_dict["avg_sell"] = round(avg_sell, 2)
-    data_dict["buyers"] = buyers
     data_dict["max_buy"] = max_buy
-    data_dict["avg_buy"] = round(avg_buy, 2)
+    # data_dict["avg_sell"] = round(avg_sell, 2)
+    data_dict["sellers"] = sellers
+    data_dict["buyers"] = buyers
+    # data_dict["avg_buy"] = round(avg_buy, 2)
     data_dict["web_url"] = data["web_url"]
 
     print("\n%s item data parsed and processed." % (data["name"]))
@@ -73,3 +75,6 @@ def RUN():
 
     fop.WriteToFile("files/FINAL_OUTPUT.json",
                     json.dumps(items_data_output, indent=4))
+
+
+# RUN()

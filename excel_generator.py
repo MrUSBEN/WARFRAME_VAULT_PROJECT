@@ -7,3 +7,6 @@ def RUN():
 
     read_json.to_excel(
         "files/FINAL_OUTPUT.xls", sheet_name="Warframe Vault Item Prices")
+
+
+# RUN()

@@ -1,2 +1,6 @@
 08-07-2022:	Improved all_item_parser search function,
 		No more leaking partial matches.
+
+08-07-2022:	Improved sheet formatting making it more efficient,
+		Removed average data as it was useless and slowing down program.
+		
