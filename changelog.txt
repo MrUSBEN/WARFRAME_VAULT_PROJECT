@@ -1,0 +1,2 @@
+08-07-2022:	Improved all_item_parser search function,
+		No more leaking partial matches.

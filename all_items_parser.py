@@ -13,7 +13,7 @@ def get_vaulted_item_url(data):
     item_url_names = []
     for name in data:
         for item in items_data:
-            if(item["item_name"].find(name) != -1):
+            if(item["item_name"].find(name) != -1 and item["item_name"].find("Prime") != -1):
                 item_url_names.append(item["url_name"])
 
     fop.WriteToFile("files/item_url_names.txt", item_url_names)
