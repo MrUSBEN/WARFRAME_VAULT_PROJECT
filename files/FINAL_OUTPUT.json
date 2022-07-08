@@ -1,0 +1,4292 @@
+[
+    {
+        "item_name": "telos_akbolto",
+        "sellers": 6,
+        "min_sell": 30,
+        "avg_sell": 52.83,
+        "buyers": 1,
+        "max_buy": 10,
+        "avg_buy": 10.0,
+        "web_url": "https://warframe.market/items/telos_akbolto"
+    },
+    {
+        "item_name": "akbolto_prime_receiver",
+        "sellers": 7,
+        "min_sell": 18,
+        "avg_sell": 30.43,
+        "buyers": 4,
+        "max_buy": 11,
+        "avg_buy": 9.0,
+        "web_url": "https://warframe.market/items/akbolto_prime_receiver"
+    },
+    {
+        "item_name": "akbolto_prime_blueprint",
+        "sellers": 9,
+        "min_sell": 3,
+        "avg_sell": 7.22,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/akbolto_prime_blueprint"
+    },
+    {
+        "item_name": "akbolto_prime_set",
+        "sellers": 17,
+        "min_sell": 70,
+        "avg_sell": 103.18,
+        "buyers": 3,
+        "max_buy": 40,
+        "avg_buy": 37.67,
+        "web_url": "https://warframe.market/items/akbolto_prime_set"
+    },
+    {
+        "item_name": "akbolto_prime_link",
+        "sellers": 8,
+        "min_sell": 4,
+        "avg_sell": 8.75,
+        "buyers": 1,
+        "max_buy": 2,
+        "avg_buy": 2.0,
+        "web_url": "https://warframe.market/items/akbolto_prime_link"
+    },
+    {
+        "item_name": "akbolto_prime_barrel",
+        "sellers": 7,
+        "min_sell": 7,
+        "avg_sell": 12.14,
+        "buyers": 3,
+        "max_buy": 3,
+        "avg_buy": 2.33,
+        "web_url": "https://warframe.market/items/akbolto_prime_barrel"
+    },
+    {
+        "item_name": "akjagara_prime_receiver",
+        "sellers": 10,
+        "min_sell": 5,
+        "avg_sell": 15.9,
+        "buyers": 3,
+        "max_buy": 9,
+        "avg_buy": 5.67,
+        "web_url": "https://warframe.market/items/akjagara_prime_receiver"
+    },
+    {
+        "item_name": "akjagara_prime_set",
+        "sellers": 16,
+        "min_sell": 100,
+        "avg_sell": 131.38,
+        "buyers": 1,
+        "max_buy": 70,
+        "avg_buy": 70.0,
+        "web_url": "https://warframe.market/items/akjagara_prime_set"
+    },
+    {
+        "item_name": "akjagara_prime_link",
+        "sellers": 14,
+        "min_sell": 4,
+        "avg_sell": 11.0,
+        "buyers": 1,
+        "max_buy": 2,
+        "avg_buy": 2.0,
+        "web_url": "https://warframe.market/items/akjagara_prime_link"
+    },
+    {
+        "item_name": "akjagara_prime_barrel",
+        "sellers": 7,
+        "min_sell": 29,
+        "avg_sell": 46.71,
+        "buyers": 4,
+        "max_buy": 15,
+        "avg_buy": 11.5,
+        "web_url": "https://warframe.market/items/akjagara_prime_barrel"
+    },
+    {
+        "item_name": "akjagara_prime_blueprint",
+        "sellers": 7,
+        "min_sell": 3,
+        "avg_sell": 9.0,
+        "buyers": 1,
+        "max_buy": 2,
+        "avg_buy": 2.0,
+        "web_url": "https://warframe.market/items/akjagara_prime_blueprint"
+    },
+    {
+        "item_name": "aklex_prime_blueprint",
+        "sellers": 6,
+        "min_sell": 10,
+        "avg_sell": 27.83,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/aklex_prime_blueprint"
+    },
+    {
+        "item_name": "aklex_prime_set",
+        "sellers": 7,
+        "min_sell": 100,
+        "avg_sell": 140.29,
+        "buyers": 2,
+        "max_buy": 61,
+        "avg_buy": 60.5,
+        "web_url": "https://warframe.market/items/aklex_prime_set"
+    },
+    {
+        "item_name": "aklex_prime_link",
+        "sellers": 4,
+        "min_sell": 85,
+        "avg_sell": 97.25,
+        "buyers": 5,
+        "max_buy": 50,
+        "avg_buy": 32.0,
+        "web_url": "https://warframe.market/items/aklex_prime_link"
+    },
+    {
+        "item_name": "aksomati_prime_set",
+        "sellers": 13,
+        "min_sell": 70,
+        "avg_sell": 100.62,
+        "buyers": 5,
+        "max_buy": 45,
+        "avg_buy": 35.6,
+        "web_url": "https://warframe.market/items/aksomati_prime_set"
+    },
+    {
+        "item_name": "aksomati_prime_link",
+        "sellers": 8,
+        "min_sell": 25,
+        "avg_sell": 44.75,
+        "buyers": 5,
+        "max_buy": 15,
+        "avg_buy": 10.0,
+        "web_url": "https://warframe.market/items/aksomati_prime_link"
+    },
+    {
+        "item_name": "aksomati_prime_receiver",
+        "sellers": 7,
+        "min_sell": 7,
+        "avg_sell": 12.29,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/aksomati_prime_receiver"
+    },
+    {
+        "item_name": "aksomati_prime_barrel",
+        "sellers": 8,
+        "min_sell": 4,
+        "avg_sell": 14.62,
+        "buyers": 3,
+        "max_buy": 5,
+        "avg_buy": 3.33,
+        "web_url": "https://warframe.market/items/aksomati_prime_barrel"
+    },
+    {
+        "item_name": "aksomati_prime_blueprint",
+        "sellers": 11,
+        "min_sell": 3,
+        "avg_sell": 14.45,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/aksomati_prime_blueprint"
+    },
+    {
+        "item_name": "akstiletto_prime_blueprint",
+        "sellers": 7,
+        "min_sell": 9,
+        "avg_sell": 37.0,
+        "buyers": 1,
+        "max_buy": 5,
+        "avg_buy": 5.0,
+        "web_url": "https://warframe.market/items/akstiletto_prime_blueprint"
+    },
+    {
+        "item_name": "akstiletto_prime_barrel",
+        "sellers": 4,
+        "min_sell": 15,
+        "avg_sell": 34.75,
+        "buyers": 3,
+        "max_buy": 12,
+        "avg_buy": 9.67,
+        "web_url": "https://warframe.market/items/akstiletto_prime_barrel"
+    },
+    {
+        "item_name": "akstiletto_prime_receiver",
+        "sellers": 12,
+        "min_sell": 17,
+        "avg_sell": 24.75,
+        "buyers": 2,
+        "max_buy": 14,
+        "avg_buy": 12.0,
+        "web_url": "https://warframe.market/items/akstiletto_prime_receiver"
+    },
+    {
+        "item_name": "akstiletto_prime_set",
+        "sellers": 8,
+        "min_sell": 140,
+        "avg_sell": 171.12,
+        "buyers": 2,
+        "max_buy": 100,
+        "avg_buy": 81.5,
+        "web_url": "https://warframe.market/items/akstiletto_prime_set"
+    },
+    {
+        "item_name": "akstiletto_prime_link",
+        "sellers": 10,
+        "min_sell": 9,
+        "avg_sell": 14.0,
+        "buyers": 1,
+        "max_buy": 2,
+        "avg_buy": 2.0,
+        "web_url": "https://warframe.market/items/akstiletto_prime_link"
+    },
+    {
+        "item_name": "akvasto_prime_set",
+        "sellers": 9,
+        "min_sell": 100,
+        "avg_sell": 126.56,
+        "buyers": 6,
+        "max_buy": 55,
+        "avg_buy": 42.5,
+        "web_url": "https://warframe.market/items/akvasto_prime_set"
+    },
+    {
+        "item_name": "akvasto_prime_blueprint",
+        "sellers": 8,
+        "min_sell": 40,
+        "avg_sell": 84.38,
+        "buyers": 7,
+        "max_buy": 40,
+        "avg_buy": 33.57,
+        "web_url": "https://warframe.market/items/akvasto_prime_blueprint"
+    },
+    {
+        "item_name": "akvasto_prime_link",
+        "sellers": 7,
+        "min_sell": 23,
+        "avg_sell": 31.0,
+        "buyers": 1,
+        "max_buy": 15,
+        "avg_buy": 15.0,
+        "web_url": "https://warframe.market/items/akvasto_prime_link"
+    },
+    {
+        "item_name": "ankyros_prime_blade",
+        "sellers": 8,
+        "min_sell": 10,
+        "avg_sell": 16.88,
+        "buyers": 3,
+        "max_buy": 5,
+        "avg_buy": 3.33,
+        "web_url": "https://warframe.market/items/ankyros_prime_blade"
+    },
+    {
+        "item_name": "ankyros_prime_gauntlet",
+        "sellers": 5,
+        "min_sell": 25,
+        "avg_sell": 31.6,
+        "buyers": 5,
+        "max_buy": 15,
+        "avg_buy": 9.4,
+        "web_url": "https://warframe.market/items/ankyros_prime_gauntlet"
+    },
+    {
+        "item_name": "ankyros_prime_set",
+        "sellers": 11,
+        "min_sell": 70,
+        "avg_sell": 112.09,
+        "buyers": 4,
+        "max_buy": 55,
+        "avg_buy": 46.75,
+        "web_url": "https://warframe.market/items/ankyros_prime_set"
+    },
+    {
+        "item_name": "ankyros_prime_blueprint",
+        "sellers": 6,
+        "min_sell": 9,
+        "avg_sell": 17.0,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/ankyros_prime_blueprint"
+    },
+    {
+        "item_name": "ash_prime_neuroptics",
+        "sellers": 20,
+        "min_sell": 12,
+        "avg_sell": 26.45,
+        "buyers": 4,
+        "max_buy": 10,
+        "avg_buy": 8.5,
+        "web_url": "https://warframe.market/items/ash_prime_neuroptics"
+    },
+    {
+        "item_name": "ash_prime_chassis",
+        "sellers": 17,
+        "min_sell": 20,
+        "avg_sell": 33.59,
+        "buyers": 5,
+        "max_buy": 16,
+        "avg_buy": 15.2,
+        "web_url": "https://warframe.market/items/ash_prime_chassis"
+    },
+    {
+        "item_name": "ash_prime_systems",
+        "sellers": 8,
+        "min_sell": 108,
+        "avg_sell": 137.0,
+        "buyers": 6,
+        "max_buy": 95,
+        "avg_buy": 68.33,
+        "web_url": "https://warframe.market/items/ash_prime_systems"
+    },
+    {
+        "item_name": "ash_prime_blueprint",
+        "sellers": 16,
+        "min_sell": 40,
+        "avg_sell": 55.12,
+        "buyers": 5,
+        "max_buy": 35,
+        "avg_buy": 28.6,
+        "web_url": "https://warframe.market/items/ash_prime_blueprint"
+    },
+    {
+        "item_name": "ash_prime_set",
+        "sellers": 22,
+        "min_sell": 200,
+        "avg_sell": 219.05,
+        "buyers": 17,
+        "max_buy": 185,
+        "avg_buy": 157.35,
+        "web_url": "https://warframe.market/items/ash_prime_set"
+    },
+    {
+        "item_name": "atlas_prime_chassis",
+        "sellers": 15,
+        "min_sell": 5,
+        "avg_sell": 10.47,
+        "buyers": 4,
+        "max_buy": 2,
+        "avg_buy": 2.0,
+        "web_url": "https://warframe.market/items/atlas_prime_chassis"
+    },
+    {
+        "item_name": "atlas_prime_set",
+        "sellers": 28,
+        "min_sell": 50,
+        "avg_sell": 94.75,
+        "buyers": 7,
+        "max_buy": 50,
+        "avg_buy": 36.29,
+        "web_url": "https://warframe.market/items/atlas_prime_set"
+    },
+    {
+        "item_name": "atlas_prime_systems",
+        "sellers": 14,
+        "min_sell": 4,
+        "avg_sell": 10.0,
+        "buyers": 4,
+        "max_buy": 2,
+        "avg_buy": 2.0,
+        "web_url": "https://warframe.market/items/atlas_prime_systems"
+    },
+    {
+        "item_name": "atlas_prime_neuroptics",
+        "sellers": 8,
+        "min_sell": 50,
+        "avg_sell": 60.38,
+        "buyers": 11,
+        "max_buy": 30,
+        "avg_buy": 21.09,
+        "web_url": "https://warframe.market/items/atlas_prime_neuroptics"
+    },
+    {
+        "item_name": "atlas_prime_blueprint",
+        "sellers": 15,
+        "min_sell": 4,
+        "avg_sell": 8.4,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/atlas_prime_blueprint"
+    },
+    {
+        "item_name": "ballistica_prime_string",
+        "sellers": 9,
+        "min_sell": 10,
+        "avg_sell": 21.89,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/ballistica_prime_string"
+    },
+    {
+        "item_name": "ballistica_prime_lower_limb",
+        "sellers": 3,
+        "min_sell": 14,
+        "avg_sell": 21.33,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/ballistica_prime_lower_limb"
+    },
+    {
+        "item_name": "rakta_ballistica",
+        "sellers": 4,
+        "min_sell": 20,
+        "avg_sell": 37.5,
+        "buyers": 2,
+        "max_buy": 16,
+        "avg_buy": 13.0,
+        "web_url": "https://warframe.market/items/rakta_ballistica"
+    },
+    {
+        "item_name": "ballistica_prime_blueprint",
+        "sellers": 8,
+        "min_sell": 15,
+        "avg_sell": 42.0,
+        "buyers": 1,
+        "max_buy": 12,
+        "avg_buy": 12.0,
+        "web_url": "https://warframe.market/items/ballistica_prime_blueprint"
+    },
+    {
+        "item_name": "ballistica_prime_receiver",
+        "sellers": 11,
+        "min_sell": 7,
+        "avg_sell": 11.09,
+        "buyers": 2,
+        "max_buy": 3,
+        "avg_buy": 2.5,
+        "web_url": "https://warframe.market/items/ballistica_prime_receiver"
+    },
+    {
+        "item_name": "ballistica_prime_set",
+        "sellers": 13,
+        "min_sell": 85,
+        "avg_sell": 123.54,
+        "buyers": 2,
+        "max_buy": 60,
+        "avg_buy": 58.0,
+        "web_url": "https://warframe.market/items/ballistica_prime_set"
+    },
+    {
+        "item_name": "ballistica_prime_upper_limb",
+        "sellers": 3,
+        "min_sell": 20,
+        "avg_sell": 23.33,
+        "buyers": 2,
+        "max_buy": 5,
+        "avg_buy": 3.5,
+        "web_url": "https://warframe.market/items/ballistica_prime_upper_limb"
+    },
+    {
+        "item_name": "banshee_prime_chassis",
+        "sellers": 9,
+        "min_sell": 22,
+        "avg_sell": 36.0,
+        "buyers": 3,
+        "max_buy": 15,
+        "avg_buy": 10.33,
+        "web_url": "https://warframe.market/items/banshee_prime_chassis"
+    },
+    {
+        "item_name": "banshee_prime_systems",
+        "sellers": 8,
+        "min_sell": 25,
+        "avg_sell": 38.62,
+        "buyers": 4,
+        "max_buy": 14,
+        "avg_buy": 9.5,
+        "web_url": "https://warframe.market/items/banshee_prime_systems"
+    },
+    {
+        "item_name": "banshee_prime_neuroptics",
+        "sellers": 24,
+        "min_sell": 3,
+        "avg_sell": 11.58,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/banshee_prime_neuroptics"
+    },
+    {
+        "item_name": "banshee_prime_blueprint",
+        "sellers": 13,
+        "min_sell": 5,
+        "avg_sell": 10.46,
+        "buyers": 3,
+        "max_buy": 2,
+        "avg_buy": 2.0,
+        "web_url": "https://warframe.market/items/banshee_prime_blueprint"
+    },
+    {
+        "item_name": "banshee_prime_set",
+        "sellers": 37,
+        "min_sell": 45,
+        "avg_sell": 96.27,
+        "buyers": 4,
+        "max_buy": 45,
+        "avg_buy": 41.25,
+        "web_url": "https://warframe.market/items/banshee_prime_set"
+    },
+    {
+        "item_name": "baza_prime_blueprint",
+        "sellers": 12,
+        "min_sell": 12,
+        "avg_sell": 21.17,
+        "buyers": 7,
+        "max_buy": 11,
+        "avg_buy": 8.0,
+        "web_url": "https://warframe.market/items/baza_prime_blueprint"
+    },
+    {
+        "item_name": "baza_prime_set",
+        "sellers": 16,
+        "min_sell": 45,
+        "avg_sell": 81.19,
+        "buyers": 2,
+        "max_buy": 26,
+        "avg_buy": 23.0,
+        "web_url": "https://warframe.market/items/baza_prime_set"
+    },
+    {
+        "item_name": "baza_prime_stock",
+        "sellers": 4,
+        "min_sell": 28,
+        "avg_sell": 54.25,
+        "buyers": 2,
+        "max_buy": 7,
+        "avg_buy": 6.0,
+        "web_url": "https://warframe.market/items/baza_prime_stock"
+    },
+    {
+        "item_name": "baza_prime_receiver",
+        "sellers": 5,
+        "min_sell": 7,
+        "avg_sell": 14.0,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/baza_prime_receiver"
+    },
+    {
+        "item_name": "baza_prime_barrel",
+        "sellers": 18,
+        "min_sell": 2,
+        "avg_sell": 7.94,
+        "buyers": 5,
+        "max_buy": 3,
+        "avg_buy": 2.4,
+        "web_url": "https://warframe.market/items/baza_prime_barrel"
+    },
+    {
+        "item_name": "telos_boltor",
+        "sellers": 8,
+        "min_sell": 34,
+        "avg_sell": 52.0,
+        "buyers": 2,
+        "max_buy": 15,
+        "avg_buy": 15.0,
+        "web_url": "https://warframe.market/items/telos_boltor"
+    },
+    {
+        "item_name": "nebula_bore",
+        "sellers": 3,
+        "min_sell": 10,
+        "avg_sell": 29.67,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/nebula_bore"
+    },
+    {
+        "item_name": "bore",
+        "sellers": 9,
+        "min_sell": 9,
+        "avg_sell": 39.33,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/bore"
+    },
+    {
+        "item_name": "bo_prime_blueprint",
+        "sellers": 3,
+        "min_sell": 40,
+        "avg_sell": 46.67,
+        "buyers": 1,
+        "max_buy": 15,
+        "avg_buy": 15.0,
+        "web_url": "https://warframe.market/items/bo_prime_blueprint"
+    },
+    {
+        "item_name": "bo_prime_handle",
+        "sellers": 6,
+        "min_sell": 25,
+        "avg_sell": 40.83,
+        "buyers": 4,
+        "max_buy": 20,
+        "avg_buy": 16.75,
+        "web_url": "https://warframe.market/items/bo_prime_handle"
+    },
+    {
+        "item_name": "deceptive_bond",
+        "sellers": 4,
+        "min_sell": 15,
+        "avg_sell": 33.25,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/deceptive_bond"
+    },
+    {
+        "item_name": "boltor_prime_receiver",
+        "sellers": 12,
+        "min_sell": 5,
+        "avg_sell": 12.17,
+        "buyers": 3,
+        "max_buy": 5,
+        "avg_buy": 3.0,
+        "web_url": "https://warframe.market/items/boltor_prime_receiver"
+    },
+    {
+        "item_name": "boltor_prime_stock",
+        "sellers": 6,
+        "min_sell": 10,
+        "avg_sell": 17.5,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/boltor_prime_stock"
+    },
+    {
+        "item_name": "boar_prime_blueprint",
+        "sellers": 9,
+        "min_sell": 13,
+        "avg_sell": 22.89,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/boar_prime_blueprint"
+    },
+    {
+        "item_name": "bo_prime_set",
+        "sellers": 15,
+        "min_sell": 109,
+        "avg_sell": 147.53,
+        "buyers": 8,
+        "max_buy": 95,
+        "avg_buy": 81.38,
+        "web_url": "https://warframe.market/items/bo_prime_set"
+    },
+    {
+        "item_name": "boar_prime_set",
+        "sellers": 6,
+        "min_sell": 117,
+        "avg_sell": 126.33,
+        "buyers": 8,
+        "max_buy": 90,
+        "avg_buy": 72.0,
+        "web_url": "https://warframe.market/items/boar_prime_set"
+    },
+    {
+        "item_name": "boltor_prime_set",
+        "sellers": 22,
+        "min_sell": 40,
+        "avg_sell": 76.68,
+        "buyers": 3,
+        "max_buy": 30,
+        "avg_buy": 28.33,
+        "web_url": "https://warframe.market/items/boltor_prime_set"
+    },
+    {
+        "item_name": "body_count",
+        "sellers": 13,
+        "min_sell": 15,
+        "avg_sell": 27.31,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/body_count"
+    },
+    {
+        "item_name": "bo_prime_ornament",
+        "sellers": 8,
+        "min_sell": 19,
+        "avg_sell": 36.75,
+        "buyers": 4,
+        "max_buy": 20,
+        "avg_buy": 15.5,
+        "web_url": "https://warframe.market/items/bo_prime_ornament"
+    },
+    {
+        "item_name": "arcane_bodyguard",
+        "sellers": 6,
+        "min_sell": 3,
+        "avg_sell": 33.0,
+        "buyers": 1,
+        "max_buy": 25,
+        "avg_buy": 25.0,
+        "web_url": "https://warframe.market/items/arcane_bodyguard"
+    },
+    {
+        "item_name": "sprint_boost",
+        "sellers": 30,
+        "min_sell": 16,
+        "avg_sell": 34.77,
+        "buyers": 1,
+        "max_buy": 5,
+        "avg_buy": 5.0,
+        "web_url": "https://warframe.market/items/sprint_boost"
+    },
+    {
+        "item_name": "boar_prime_barrel",
+        "sellers": 10,
+        "min_sell": 15,
+        "avg_sell": 24.5,
+        "buyers": 3,
+        "max_buy": 11,
+        "avg_buy": 10.67,
+        "web_url": "https://warframe.market/items/boar_prime_barrel"
+    },
+    {
+        "item_name": "boltor_prime_blueprint",
+        "sellers": 10,
+        "min_sell": 18,
+        "avg_sell": 31.6,
+        "buyers": 3,
+        "max_buy": 10,
+        "avg_buy": 7.67,
+        "web_url": "https://warframe.market/items/boltor_prime_blueprint"
+    },
+    {
+        "item_name": "pacifying_bolts",
+        "sellers": 2,
+        "min_sell": 40,
+        "avg_sell": 50.0,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/pacifying_bolts"
+    },
+    {
+        "item_name": "venari_bodyguard",
+        "sellers": 10,
+        "min_sell": 10,
+        "avg_sell": 20.1,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/venari_bodyguard"
+    },
+    {
+        "item_name": "ergos_boardroom_scene",
+        "sellers": 2,
+        "min_sell": 30,
+        "avg_sell": 65.0,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/ergos_boardroom_scene"
+    },
+    {
+        "item_name": "telos_boltace",
+        "sellers": 7,
+        "min_sell": 15,
+        "avg_sell": 53.43,
+        "buyers": 2,
+        "max_buy": 15,
+        "avg_buy": 15.0,
+        "web_url": "https://warframe.market/items/telos_boltace"
+    },
+    {
+        "item_name": "bounty_hunter",
+        "sellers": 0,
+        "min_sell": 0,
+        "avg_sell": 0,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/bounty_hunter"
+    },
+    {
+        "item_name": "boar_prime_receiver",
+        "sellers": 10,
+        "min_sell": 13,
+        "avg_sell": 25.3,
+        "buyers": 1,
+        "max_buy": 9,
+        "avg_buy": 9.0,
+        "web_url": "https://warframe.market/items/boar_prime_receiver"
+    },
+    {
+        "item_name": "boar_prime_stock",
+        "sellers": 5,
+        "min_sell": 49,
+        "avg_sell": 55.4,
+        "buyers": 1,
+        "max_buy": 29,
+        "avg_buy": 29.0,
+        "web_url": "https://warframe.market/items/boar_prime_stock"
+    },
+    {
+        "item_name": "kogake_prime_boot",
+        "sellers": 10,
+        "min_sell": 4,
+        "avg_sell": 10.4,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/kogake_prime_boot"
+    },
+    {
+        "item_name": "bomb_the_landin",
+        "sellers": 4,
+        "min_sell": 14,
+        "avg_sell": 49.0,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/bomb_the_landin"
+    },
+    {
+        "item_name": "tempered_bound",
+        "sellers": 0,
+        "min_sell": 0,
+        "avg_sell": 0,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/tempered_bound"
+    },
+    {
+        "item_name": "hunters_bonesaw",
+        "sellers": 8,
+        "min_sell": 5,
+        "avg_sell": 17.0,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/hunters_bonesaw"
+    },
+    {
+        "item_name": "bonewidow_set",
+        "sellers": 4,
+        "min_sell": 70,
+        "avg_sell": 85.0,
+        "buyers": 2,
+        "max_buy": 40,
+        "avg_buy": 35.0,
+        "web_url": "https://warframe.market/items/bonewidow_set"
+    },
+    {
+        "item_name": "bonewidow_weapon_pod",
+        "sellers": 2,
+        "min_sell": 29,
+        "avg_sell": 32.0,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/bonewidow_weapon_pod"
+    },
+    {
+        "item_name": "bonewidow_casing",
+        "sellers": 1,
+        "min_sell": 35,
+        "avg_sell": 35.0,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/bonewidow_casing"
+    },
+    {
+        "item_name": "bonewidow_capsule",
+        "sellers": 2,
+        "min_sell": 30,
+        "avg_sell": 32.5,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/bonewidow_capsule"
+    },
+    {
+        "item_name": "adrenaline_boost",
+        "sellers": 0,
+        "min_sell": 0,
+        "avg_sell": 0,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/adrenaline_boost"
+    },
+    {
+        "item_name": "boltor_prime_barrel",
+        "sellers": 8,
+        "min_sell": 20,
+        "avg_sell": 25.62,
+        "buyers": 1,
+        "max_buy": 5,
+        "avg_buy": 5.0,
+        "web_url": "https://warframe.market/items/boltor_prime_barrel"
+    },
+    {
+        "item_name": "sonic_boost",
+        "sellers": 3,
+        "min_sell": 29,
+        "avg_sell": 56.0,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/sonic_boost"
+    },
+    {
+        "item_name": "pax_bolt",
+        "sellers": 9,
+        "min_sell": 4,
+        "avg_sell": 29.78,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/pax_bolt"
+    },
+    {
+        "item_name": "slay_board",
+        "sellers": 3,
+        "min_sell": 24,
+        "avg_sell": 59.0,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/slay_board"
+    },
+    {
+        "item_name": "botanist",
+        "sellers": 10,
+        "min_sell": 50,
+        "avg_sell": 73.8,
+        "buyers": 1,
+        "max_buy": 15,
+        "avg_buy": 15.0,
+        "web_url": "https://warframe.market/items/botanist"
+    },
+    {
+        "item_name": "residual_boils",
+        "sellers": 12,
+        "min_sell": 3,
+        "avg_sell": 17.08,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/residual_boils"
+    },
+    {
+        "item_name": "bonewidow_engine",
+        "sellers": 0,
+        "min_sell": 0,
+        "avg_sell": 0,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/bonewidow_engine"
+    },
+    {
+        "item_name": "nitro_boost",
+        "sellers": 6,
+        "min_sell": 14,
+        "avg_sell": 37.0,
+        "buyers": 1,
+        "max_buy": 15,
+        "avg_buy": 15.0,
+        "web_url": "https://warframe.market/items/nitro_boost"
+    },
+    {
+        "item_name": "boreals_contempt",
+        "sellers": 12,
+        "min_sell": 15,
+        "avg_sell": 28.58,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/boreals_contempt"
+    },
+    {
+        "item_name": "boreals_hatred",
+        "sellers": 22,
+        "min_sell": 5,
+        "avg_sell": 11.5,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/boreals_hatred"
+    },
+    {
+        "item_name": "boreals_anguish",
+        "sellers": 3,
+        "min_sell": 10,
+        "avg_sell": 13.33,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/boreals_anguish"
+    },
+    {
+        "item_name": "boar_prime_blueprint",
+        "sellers": 9,
+        "min_sell": 13,
+        "avg_sell": 22.89,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/boar_prime_blueprint"
+    },
+    {
+        "item_name": "boar_prime_set",
+        "sellers": 6,
+        "min_sell": 117,
+        "avg_sell": 126.33,
+        "buyers": 8,
+        "max_buy": 90,
+        "avg_buy": 72.0,
+        "web_url": "https://warframe.market/items/boar_prime_set"
+    },
+    {
+        "item_name": "boar_prime_barrel",
+        "sellers": 10,
+        "min_sell": 15,
+        "avg_sell": 24.5,
+        "buyers": 3,
+        "max_buy": 11,
+        "avg_buy": 10.67,
+        "web_url": "https://warframe.market/items/boar_prime_barrel"
+    },
+    {
+        "item_name": "ergos_boardroom_scene",
+        "sellers": 2,
+        "min_sell": 30,
+        "avg_sell": 65.0,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/ergos_boardroom_scene"
+    },
+    {
+        "item_name": "boar_prime_receiver",
+        "sellers": 10,
+        "min_sell": 13,
+        "avg_sell": 25.3,
+        "buyers": 1,
+        "max_buy": 9,
+        "avg_buy": 9.0,
+        "web_url": "https://warframe.market/items/boar_prime_receiver"
+    },
+    {
+        "item_name": "boar_prime_stock",
+        "sellers": 5,
+        "min_sell": 49,
+        "avg_sell": 55.4,
+        "buyers": 1,
+        "max_buy": 29,
+        "avg_buy": 29.0,
+        "web_url": "https://warframe.market/items/boar_prime_stock"
+    },
+    {
+        "item_name": "slay_board",
+        "sellers": 3,
+        "min_sell": 24,
+        "avg_sell": 59.0,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/slay_board"
+    },
+    {
+        "item_name": "telos_boltor",
+        "sellers": 8,
+        "min_sell": 34,
+        "avg_sell": 52.0,
+        "buyers": 2,
+        "max_buy": 15,
+        "avg_buy": 15.0,
+        "web_url": "https://warframe.market/items/telos_boltor"
+    },
+    {
+        "item_name": "boltor_prime_receiver",
+        "sellers": 12,
+        "min_sell": 5,
+        "avg_sell": 12.17,
+        "buyers": 3,
+        "max_buy": 5,
+        "avg_buy": 3.0,
+        "web_url": "https://warframe.market/items/boltor_prime_receiver"
+    },
+    {
+        "item_name": "boltor_prime_stock",
+        "sellers": 6,
+        "min_sell": 10,
+        "avg_sell": 17.5,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/boltor_prime_stock"
+    },
+    {
+        "item_name": "boltor_prime_set",
+        "sellers": 22,
+        "min_sell": 40,
+        "avg_sell": 76.68,
+        "buyers": 3,
+        "max_buy": 30,
+        "avg_buy": 28.33,
+        "web_url": "https://warframe.market/items/boltor_prime_set"
+    },
+    {
+        "item_name": "boltor_prime_blueprint",
+        "sellers": 10,
+        "min_sell": 18,
+        "avg_sell": 31.6,
+        "buyers": 3,
+        "max_buy": 10,
+        "avg_buy": 7.67,
+        "web_url": "https://warframe.market/items/boltor_prime_blueprint"
+    },
+    {
+        "item_name": "boltor_prime_barrel",
+        "sellers": 8,
+        "min_sell": 20,
+        "avg_sell": 25.62,
+        "buyers": 1,
+        "max_buy": 5,
+        "avg_buy": 5.0,
+        "web_url": "https://warframe.market/items/boltor_prime_barrel"
+    },
+    {
+        "item_name": "carrier_prime_blueprint",
+        "sellers": 10,
+        "min_sell": 9,
+        "avg_sell": 22.1,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/carrier_prime_blueprint"
+    },
+    {
+        "item_name": "carrier_prime_set",
+        "sellers": 26,
+        "min_sell": 79,
+        "avg_sell": 105.15,
+        "buyers": 8,
+        "max_buy": 75,
+        "avg_buy": 61.12,
+        "web_url": "https://warframe.market/items/carrier_prime_set"
+    },
+    {
+        "item_name": "carrier_prime_carapace",
+        "sellers": 6,
+        "min_sell": 15,
+        "avg_sell": 20.5,
+        "buyers": 1,
+        "max_buy": 10,
+        "avg_buy": 10.0,
+        "web_url": "https://warframe.market/items/carrier_prime_carapace"
+    },
+    {
+        "item_name": "carrier_prime_systems",
+        "sellers": 10,
+        "min_sell": 8,
+        "avg_sell": 14.7,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/carrier_prime_systems"
+    },
+    {
+        "item_name": "carrier_prime_cerebrum",
+        "sellers": 8,
+        "min_sell": 39,
+        "avg_sell": 59.88,
+        "buyers": 2,
+        "max_buy": 20,
+        "avg_buy": 15.0,
+        "web_url": "https://warframe.market/items/carrier_prime_cerebrum"
+    },
+    {
+        "item_name": "corinth_prime_stock",
+        "sellers": 10,
+        "min_sell": 13,
+        "avg_sell": 22.4,
+        "buyers": 6,
+        "max_buy": 11,
+        "avg_buy": 8.5,
+        "web_url": "https://warframe.market/items/corinth_prime_stock"
+    },
+    {
+        "item_name": "corinth_prime_blueprint",
+        "sellers": 14,
+        "min_sell": 3,
+        "avg_sell": 7.93,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/corinth_prime_blueprint"
+    },
+    {
+        "item_name": "corinth_prime_set",
+        "sellers": 20,
+        "min_sell": 50,
+        "avg_sell": 92.05,
+        "buyers": 3,
+        "max_buy": 33,
+        "avg_buy": 28.33,
+        "web_url": "https://warframe.market/items/corinth_prime_set"
+    },
+    {
+        "item_name": "corinth_prime_barrel",
+        "sellers": 5,
+        "min_sell": 30,
+        "avg_sell": 44.6,
+        "buyers": 5,
+        "max_buy": 11,
+        "avg_buy": 9.8,
+        "web_url": "https://warframe.market/items/corinth_prime_barrel"
+    },
+    {
+        "item_name": "corinth_prime_receiver",
+        "sellers": 9,
+        "min_sell": 3,
+        "avg_sell": 10.78,
+        "buyers": 3,
+        "max_buy": 3,
+        "avg_buy": 2.33,
+        "web_url": "https://warframe.market/items/corinth_prime_receiver"
+    },
+    {
+        "item_name": "dakra_prime_handle",
+        "sellers": 8,
+        "min_sell": 12,
+        "avg_sell": 21.88,
+        "buyers": 1,
+        "max_buy": 8,
+        "avg_buy": 8.0,
+        "web_url": "https://warframe.market/items/dakra_prime_handle"
+    },
+    {
+        "item_name": "dakra_prime_set",
+        "sellers": 17,
+        "min_sell": 65,
+        "avg_sell": 88.82,
+        "buyers": 2,
+        "max_buy": 39,
+        "avg_buy": 34.5,
+        "web_url": "https://warframe.market/items/dakra_prime_set"
+    },
+    {
+        "item_name": "dakra_prime_blade",
+        "sellers": 8,
+        "min_sell": 20,
+        "avg_sell": 39.12,
+        "buyers": 1,
+        "max_buy": 10,
+        "avg_buy": 10.0,
+        "web_url": "https://warframe.market/items/dakra_prime_blade"
+    },
+    {
+        "item_name": "dakra_prime_blueprint",
+        "sellers": 9,
+        "min_sell": 11,
+        "avg_sell": 22.56,
+        "buyers": 1,
+        "max_buy": 2,
+        "avg_buy": 2.0,
+        "web_url": "https://warframe.market/items/dakra_prime_blueprint"
+    },
+    {
+        "item_name": "destreza_prime_set",
+        "sellers": 17,
+        "min_sell": 55,
+        "avg_sell": 81.71,
+        "buyers": 1,
+        "max_buy": 35,
+        "avg_buy": 35.0,
+        "web_url": "https://warframe.market/items/destreza_prime_set"
+    },
+    {
+        "item_name": "destreza_prime_handle",
+        "sellers": 7,
+        "min_sell": 14,
+        "avg_sell": 17.57,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/destreza_prime_handle"
+    },
+    {
+        "item_name": "destreza_prime_blade",
+        "sellers": 6,
+        "min_sell": 44,
+        "avg_sell": 56.17,
+        "buyers": 4,
+        "max_buy": 30,
+        "avg_buy": 21.25,
+        "web_url": "https://warframe.market/items/destreza_prime_blade"
+    },
+    {
+        "item_name": "destreza_prime_blueprint",
+        "sellers": 11,
+        "min_sell": 4,
+        "avg_sell": 9.64,
+        "buyers": 2,
+        "max_buy": 2,
+        "avg_buy": 2.0,
+        "web_url": "https://warframe.market/items/destreza_prime_blueprint"
+    },
+    {
+        "item_name": "dethcube_prime_carapace",
+        "sellers": 12,
+        "min_sell": 4,
+        "avg_sell": 8.42,
+        "buyers": 2,
+        "max_buy": 2,
+        "avg_buy": 2.0,
+        "web_url": "https://warframe.market/items/dethcube_prime_carapace"
+    },
+    {
+        "item_name": "dethcube_prime_cerebrum",
+        "sellers": 5,
+        "min_sell": 20,
+        "avg_sell": 41.0,
+        "buyers": 2,
+        "max_buy": 15,
+        "avg_buy": 10.0,
+        "web_url": "https://warframe.market/items/dethcube_prime_cerebrum"
+    },
+    {
+        "item_name": "dethcube_prime_blueprint",
+        "sellers": 13,
+        "min_sell": 13,
+        "avg_sell": 23.08,
+        "buyers": 5,
+        "max_buy": 10,
+        "avg_buy": 8.0,
+        "web_url": "https://warframe.market/items/dethcube_prime_blueprint"
+    },
+    {
+        "item_name": "dethcube_prime_set",
+        "sellers": 29,
+        "min_sell": 30,
+        "avg_sell": 73.48,
+        "buyers": 3,
+        "max_buy": 26,
+        "avg_buy": 24.0,
+        "web_url": "https://warframe.market/items/dethcube_prime_set"
+    },
+    {
+        "item_name": "dethcube_prime_systems",
+        "sellers": 9,
+        "min_sell": 4,
+        "avg_sell": 11.0,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/dethcube_prime_systems"
+    },
+    {
+        "item_name": "dual_kamas_prime_set",
+        "sellers": 13,
+        "min_sell": 158,
+        "avg_sell": 188.15,
+        "buyers": 6,
+        "max_buy": 150,
+        "avg_buy": 123.5,
+        "web_url": "https://warframe.market/items/dual_kamas_prime_set"
+    },
+    {
+        "item_name": "dual_kamas_prime_blueprint",
+        "sellers": 12,
+        "min_sell": 7,
+        "avg_sell": 13.58,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/dual_kamas_prime_blueprint"
+    },
+    {
+        "item_name": "dual_kamas_prime_handle",
+        "sellers": 14,
+        "min_sell": 9,
+        "avg_sell": 18.0,
+        "buyers": 1,
+        "max_buy": 2,
+        "avg_buy": 2.0,
+        "web_url": "https://warframe.market/items/dual_kamas_prime_handle"
+    },
+    {
+        "item_name": "dual_kamas_prime_blade",
+        "sellers": 5,
+        "min_sell": 60,
+        "avg_sell": 80.8,
+        "buyers": 5,
+        "max_buy": 32,
+        "avg_buy": 27.4,
+        "web_url": "https://warframe.market/items/dual_kamas_prime_blade"
+    },
+    {
+        "item_name": "ember_prime_neuroptics",
+        "sellers": 4,
+        "min_sell": 19,
+        "avg_sell": 43.0,
+        "buyers": 5,
+        "max_buy": 15,
+        "avg_buy": 8.4,
+        "web_url": "https://warframe.market/items/ember_prime_neuroptics"
+    },
+    {
+        "item_name": "ember_prime_set",
+        "sellers": 38,
+        "min_sell": 100,
+        "avg_sell": 140.53,
+        "buyers": 9,
+        "max_buy": 90,
+        "avg_buy": 71.0,
+        "web_url": "https://warframe.market/items/ember_prime_set"
+    },
+    {
+        "item_name": "ember_prime_chassis",
+        "sellers": 4,
+        "min_sell": 35,
+        "avg_sell": 45.5,
+        "buyers": 9,
+        "max_buy": 20,
+        "avg_buy": 15.67,
+        "web_url": "https://warframe.market/items/ember_prime_chassis"
+    },
+    {
+        "item_name": "ember_prime_systems",
+        "sellers": 6,
+        "min_sell": 15,
+        "avg_sell": 24.17,
+        "buyers": 1,
+        "max_buy": 10,
+        "avg_buy": 10.0,
+        "web_url": "https://warframe.market/items/ember_prime_systems"
+    },
+    {
+        "item_name": "ember_prime_blueprint",
+        "sellers": 10,
+        "min_sell": 29,
+        "avg_sell": 46.2,
+        "buyers": 4,
+        "max_buy": 25,
+        "avg_buy": 21.75,
+        "web_url": "https://warframe.market/items/ember_prime_blueprint"
+    },
+    {
+        "item_name": "equinox_prime_blueprint",
+        "sellers": 8,
+        "min_sell": 18,
+        "avg_sell": 27.12,
+        "buyers": 3,
+        "max_buy": 10,
+        "avg_buy": 9.0,
+        "web_url": "https://warframe.market/items/equinox_prime_blueprint"
+    },
+    {
+        "item_name": "equinox_prime_systems",
+        "sellers": 10,
+        "min_sell": 40,
+        "avg_sell": 71.4,
+        "buyers": 1,
+        "max_buy": 15,
+        "avg_buy": 15.0,
+        "web_url": "https://warframe.market/items/equinox_prime_systems"
+    },
+    {
+        "item_name": "equinox_prime_neuroptics",
+        "sellers": 21,
+        "min_sell": 7,
+        "avg_sell": 11.29,
+        "buyers": 2,
+        "max_buy": 3,
+        "avg_buy": 2.5,
+        "web_url": "https://warframe.market/items/equinox_prime_neuroptics"
+    },
+    {
+        "item_name": "equinox_prime_chassis",
+        "sellers": 17,
+        "min_sell": 2,
+        "avg_sell": 11.47,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/equinox_prime_chassis"
+    },
+    {
+        "item_name": "equinox_prime_set",
+        "sellers": 33,
+        "min_sell": 64,
+        "avg_sell": 107.73,
+        "buyers": 7,
+        "max_buy": 65,
+        "avg_buy": 50.29,
+        "web_url": "https://warframe.market/items/equinox_prime_set"
+    },
+    {
+        "item_name": "euphona_prime_set",
+        "sellers": 23,
+        "min_sell": 30,
+        "avg_sell": 53.43,
+        "buyers": 1,
+        "max_buy": 25,
+        "avg_buy": 25.0,
+        "web_url": "https://warframe.market/items/euphona_prime_set"
+    },
+    {
+        "item_name": "euphona_prime_blueprint",
+        "sellers": 7,
+        "min_sell": 4,
+        "avg_sell": 12.43,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/euphona_prime_blueprint"
+    },
+    {
+        "item_name": "euphona_prime_barrel",
+        "sellers": 8,
+        "min_sell": 8,
+        "avg_sell": 15.0,
+        "buyers": 3,
+        "max_buy": 4,
+        "avg_buy": 2.67,
+        "web_url": "https://warframe.market/items/euphona_prime_barrel"
+    },
+    {
+        "item_name": "euphona_prime_receiver",
+        "sellers": 6,
+        "min_sell": 20,
+        "avg_sell": 56.67,
+        "buyers": 6,
+        "max_buy": 15,
+        "avg_buy": 10.17,
+        "web_url": "https://warframe.market/items/euphona_prime_receiver"
+    },
+    {
+        "item_name": "fragor_prime_set",
+        "sellers": 17,
+        "min_sell": 50,
+        "avg_sell": 69.35,
+        "buyers": 1,
+        "max_buy": 25,
+        "avg_buy": 25.0,
+        "web_url": "https://warframe.market/items/fragor_prime_set"
+    },
+    {
+        "item_name": "fragor_prime_head",
+        "sellers": 11,
+        "min_sell": 12,
+        "avg_sell": 21.55,
+        "buyers": 1,
+        "max_buy": 6,
+        "avg_buy": 6.0,
+        "web_url": "https://warframe.market/items/fragor_prime_head"
+    },
+    {
+        "item_name": "fragor_prime_blueprint",
+        "sellers": 4,
+        "min_sell": 14,
+        "avg_sell": 29.75,
+        "buyers": 2,
+        "max_buy": 3,
+        "avg_buy": 2.5,
+        "web_url": "https://warframe.market/items/fragor_prime_blueprint"
+    },
+    {
+        "item_name": "fragor_prime_handle",
+        "sellers": 7,
+        "min_sell": 10,
+        "avg_sell": 22.86,
+        "buyers": 1,
+        "max_buy": 10,
+        "avg_buy": 10.0,
+        "web_url": "https://warframe.market/items/fragor_prime_handle"
+    },
+    {
+        "item_name": "frost_prime_set",
+        "sellers": 26,
+        "min_sell": 130,
+        "avg_sell": 160.96,
+        "buyers": 13,
+        "max_buy": 120,
+        "avg_buy": 97.15,
+        "web_url": "https://warframe.market/items/frost_prime_set"
+    },
+    {
+        "item_name": "vicious_frost",
+        "sellers": 31,
+        "min_sell": 8,
+        "avg_sell": 21.29,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/vicious_frost"
+    },
+    {
+        "item_name": "frost_prime_blueprint",
+        "sellers": 8,
+        "min_sell": 70,
+        "avg_sell": 101.0,
+        "buyers": 9,
+        "max_buy": 60,
+        "avg_buy": 46.11,
+        "web_url": "https://warframe.market/items/frost_prime_blueprint"
+    },
+    {
+        "item_name": "frost_prime_neuroptics",
+        "sellers": 20,
+        "min_sell": 8,
+        "avg_sell": 12.4,
+        "buyers": 1,
+        "max_buy": 5,
+        "avg_buy": 5.0,
+        "web_url": "https://warframe.market/items/frost_prime_neuroptics"
+    },
+    {
+        "item_name": "frost_jaw",
+        "sellers": 15,
+        "min_sell": 5,
+        "avg_sell": 22.47,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/frost_jaw"
+    },
+    {
+        "item_name": "frostbite",
+        "sellers": 19,
+        "min_sell": 15,
+        "avg_sell": 33.89,
+        "buyers": 1,
+        "max_buy": 5,
+        "avg_buy": 5.0,
+        "web_url": "https://warframe.market/items/frostbite"
+    },
+    {
+        "item_name": "frost_prime_chassis",
+        "sellers": 7,
+        "min_sell": 25,
+        "avg_sell": 33.57,
+        "buyers": 2,
+        "max_buy": 11,
+        "avg_buy": 9.0,
+        "web_url": "https://warframe.market/items/frost_prime_chassis"
+    },
+    {
+        "item_name": "frost_prime_systems",
+        "sellers": 9,
+        "min_sell": 19,
+        "avg_sell": 25.89,
+        "buyers": 2,
+        "max_buy": 10,
+        "avg_buy": 9.0,
+        "web_url": "https://warframe.market/items/frost_prime_systems"
+    },
+    {
+        "item_name": "biting_frost",
+        "sellers": 6,
+        "min_sell": 10,
+        "avg_sell": 18.17,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/biting_frost"
+    },
+    {
+        "item_name": "galatine_prime_blueprint",
+        "sellers": 2,
+        "min_sell": 69,
+        "avg_sell": 109.5,
+        "buyers": 9,
+        "max_buy": 40,
+        "avg_buy": 23.89,
+        "web_url": "https://warframe.market/items/galatine_prime_blueprint"
+    },
+    {
+        "item_name": "galatine_prime_blade",
+        "sellers": 11,
+        "min_sell": 5,
+        "avg_sell": 11.64,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/galatine_prime_blade"
+    },
+    {
+        "item_name": "galatine_prime_set",
+        "sellers": 12,
+        "min_sell": 69,
+        "avg_sell": 100.42,
+        "buyers": 2,
+        "max_buy": 35,
+        "avg_buy": 33.5,
+        "web_url": "https://warframe.market/items/galatine_prime_set"
+    },
+    {
+        "item_name": "galatine_prime_handle",
+        "sellers": 10,
+        "min_sell": 6,
+        "avg_sell": 13.5,
+        "buyers": 1,
+        "max_buy": 2,
+        "avg_buy": 2.0,
+        "web_url": "https://warframe.market/items/galatine_prime_handle"
+    },
+    {
+        "item_name": "glaive_prime_blade",
+        "sellers": 11,
+        "min_sell": 35,
+        "avg_sell": 42.0,
+        "buyers": 9,
+        "max_buy": 26,
+        "avg_buy": 23.0,
+        "web_url": "https://warframe.market/items/glaive_prime_blade"
+    },
+    {
+        "item_name": "glaive_prime_disc",
+        "sellers": 5,
+        "min_sell": 35,
+        "avg_sell": 45.0,
+        "buyers": 6,
+        "max_buy": 25,
+        "avg_buy": 19.33,
+        "web_url": "https://warframe.market/items/glaive_prime_disc"
+    },
+    {
+        "item_name": "glaive_prime_set",
+        "sellers": 17,
+        "min_sell": 200,
+        "avg_sell": 238.35,
+        "buyers": 17,
+        "max_buy": 190,
+        "avg_buy": 141.35,
+        "web_url": "https://warframe.market/items/glaive_prime_set"
+    },
+    {
+        "item_name": "glaive_prime_blueprint",
+        "sellers": 10,
+        "min_sell": 88,
+        "avg_sell": 105.3,
+        "buyers": 13,
+        "max_buy": 80,
+        "avg_buy": 58.62,
+        "web_url": "https://warframe.market/items/glaive_prime_blueprint"
+    },
+    {
+        "item_name": "helios_prime_carapace",
+        "sellers": 8,
+        "min_sell": 8,
+        "avg_sell": 17.25,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/helios_prime_carapace"
+    },
+    {
+        "item_name": "helios_prime_set",
+        "sellers": 35,
+        "min_sell": 40,
+        "avg_sell": 72.91,
+        "buyers": 8,
+        "max_buy": 36,
+        "avg_buy": 27.88,
+        "web_url": "https://warframe.market/items/helios_prime_set"
+    },
+    {
+        "item_name": "helios_prime_blueprint",
+        "sellers": 15,
+        "min_sell": 4,
+        "avg_sell": 8.4,
+        "buyers": 2,
+        "max_buy": 3,
+        "avg_buy": 2.5,
+        "web_url": "https://warframe.market/items/helios_prime_blueprint"
+    },
+    {
+        "item_name": "helios_prime_cerebrum",
+        "sellers": 6,
+        "min_sell": 25,
+        "avg_sell": 43.17,
+        "buyers": 7,
+        "max_buy": 20,
+        "avg_buy": 11.29,
+        "web_url": "https://warframe.market/items/helios_prime_cerebrum"
+    },
+    {
+        "item_name": "helios_prime_systems",
+        "sellers": 8,
+        "min_sell": 10,
+        "avg_sell": 17.25,
+        "buyers": 2,
+        "max_buy": 5,
+        "avg_buy": 3.5,
+        "web_url": "https://warframe.market/items/helios_prime_systems"
+    },
+    {
+        "item_name": "hydroid_prime_set",
+        "sellers": 18,
+        "min_sell": 120,
+        "avg_sell": 144.89,
+        "buyers": 9,
+        "max_buy": 105,
+        "avg_buy": 75.56,
+        "web_url": "https://warframe.market/items/hydroid_prime_set"
+    },
+    {
+        "item_name": "hydroid_prime_neuroptics",
+        "sellers": 8,
+        "min_sell": 10,
+        "avg_sell": 24.38,
+        "buyers": 6,
+        "max_buy": 15,
+        "avg_buy": 9.5,
+        "web_url": "https://warframe.market/items/hydroid_prime_neuroptics"
+    },
+    {
+        "item_name": "hydroid_prime_chassis",
+        "sellers": 13,
+        "min_sell": 7,
+        "avg_sell": 12.0,
+        "buyers": 1,
+        "max_buy": 4,
+        "avg_buy": 4.0,
+        "web_url": "https://warframe.market/items/hydroid_prime_chassis"
+    },
+    {
+        "item_name": "hydroid_prime_blueprint",
+        "sellers": 5,
+        "min_sell": 12,
+        "avg_sell": 24.6,
+        "buyers": 6,
+        "max_buy": 22,
+        "avg_buy": 9.83,
+        "web_url": "https://warframe.market/items/hydroid_prime_blueprint"
+    },
+    {
+        "item_name": "hydroid_prime_systems",
+        "sellers": 9,
+        "min_sell": 64,
+        "avg_sell": 77.56,
+        "buyers": 10,
+        "max_buy": 55,
+        "avg_buy": 40.1,
+        "web_url": "https://warframe.market/items/hydroid_prime_systems"
+    },
+    {
+        "item_name": "hydroids_relay_scene",
+        "sellers": 3,
+        "min_sell": 10,
+        "avg_sell": 27.33,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/hydroids_relay_scene"
+    },
+    {
+        "item_name": "ivara_prime_neuroptics",
+        "sellers": 13,
+        "min_sell": 5,
+        "avg_sell": 10.85,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/ivara_prime_neuroptics"
+    },
+    {
+        "item_name": "ivara_prime_chassis",
+        "sellers": 17,
+        "min_sell": 20,
+        "avg_sell": 40.35,
+        "buyers": 10,
+        "max_buy": 15,
+        "avg_buy": 11.7,
+        "web_url": "https://warframe.market/items/ivara_prime_chassis"
+    },
+    {
+        "item_name": "ivara_prime_systems",
+        "sellers": 19,
+        "min_sell": 7,
+        "avg_sell": 12.89,
+        "buyers": 3,
+        "max_buy": 2,
+        "avg_buy": 2.0,
+        "web_url": "https://warframe.market/items/ivara_prime_systems"
+    },
+    {
+        "item_name": "ivara_prime_set",
+        "sellers": 38,
+        "min_sell": 40,
+        "avg_sell": 97.5,
+        "buyers": 8,
+        "max_buy": 40,
+        "avg_buy": 32.38,
+        "web_url": "https://warframe.market/items/ivara_prime_set"
+    },
+    {
+        "item_name": "ivara_prime_blueprint",
+        "sellers": 21,
+        "min_sell": 7,
+        "avg_sell": 12.05,
+        "buyers": 2,
+        "max_buy": 2,
+        "avg_buy": 2.0,
+        "web_url": "https://warframe.market/items/ivara_prime_blueprint"
+    },
+    {
+        "item_name": "kavasa_prime_kubrow_collar_set",
+        "sellers": 10,
+        "min_sell": 29,
+        "avg_sell": 59.5,
+        "buyers": 1,
+        "max_buy": 25,
+        "avg_buy": 25.0,
+        "web_url": "https://warframe.market/items/kavasa_prime_kubrow_collar_set"
+    },
+    {
+        "item_name": "kavasa_prime_buckle",
+        "sellers": 3,
+        "min_sell": 24,
+        "avg_sell": 43.0,
+        "buyers": 1,
+        "max_buy": 15,
+        "avg_buy": 15.0,
+        "web_url": "https://warframe.market/items/kavasa_prime_buckle"
+    },
+    {
+        "item_name": "kavasa_prime_band",
+        "sellers": 8,
+        "min_sell": 7,
+        "avg_sell": 12.0,
+        "buyers": 1,
+        "max_buy": 2,
+        "avg_buy": 2.0,
+        "web_url": "https://warframe.market/items/kavasa_prime_band"
+    },
+    {
+        "item_name": "kavasa_prime_kubrow_collar_blueprint",
+        "sellers": 8,
+        "min_sell": 7,
+        "avg_sell": 12.5,
+        "buyers": 1,
+        "max_buy": 2,
+        "avg_buy": 2.0,
+        "web_url": "https://warframe.market/items/kavasa_prime_kubrow_collar_blueprint"
+    },
+    {
+        "item_name": "kogake_prime_set",
+        "sellers": 15,
+        "min_sell": 70,
+        "avg_sell": 96.53,
+        "buyers": 1,
+        "max_buy": 40,
+        "avg_buy": 40.0,
+        "web_url": "https://warframe.market/items/kogake_prime_set"
+    },
+    {
+        "item_name": "kogake_prime_gauntlet",
+        "sellers": 7,
+        "min_sell": 25,
+        "avg_sell": 39.14,
+        "buyers": 6,
+        "max_buy": 17,
+        "avg_buy": 10.83,
+        "web_url": "https://warframe.market/items/kogake_prime_gauntlet"
+    },
+    {
+        "item_name": "kogake_prime_boot",
+        "sellers": 10,
+        "min_sell": 4,
+        "avg_sell": 10.4,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/kogake_prime_boot"
+    },
+    {
+        "item_name": "kogake_prime_blueprint",
+        "sellers": 10,
+        "min_sell": 5,
+        "avg_sell": 12.2,
+        "buyers": 1,
+        "max_buy": 2,
+        "avg_buy": 2.0,
+        "web_url": "https://warframe.market/items/kogake_prime_blueprint"
+    },
+    {
+        "item_name": "latron_wraith_barrel",
+        "sellers": 1,
+        "min_sell": 33,
+        "avg_sell": 33.0,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/latron_wraith_barrel"
+    },
+    {
+        "item_name": "latron_prime_set",
+        "sellers": 19,
+        "min_sell": 59,
+        "avg_sell": 79.58,
+        "buyers": 3,
+        "max_buy": 40,
+        "avg_buy": 36.67,
+        "web_url": "https://warframe.market/items/latron_prime_set"
+    },
+    {
+        "item_name": "latron_prime_barrel",
+        "sellers": 6,
+        "min_sell": 9,
+        "avg_sell": 20.5,
+        "buyers": 1,
+        "max_buy": 8,
+        "avg_buy": 8.0,
+        "web_url": "https://warframe.market/items/latron_prime_barrel"
+    },
+    {
+        "item_name": "latron_wraith_blueprint",
+        "sellers": 3,
+        "min_sell": 14,
+        "avg_sell": 16.67,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/latron_wraith_blueprint"
+    },
+    {
+        "item_name": "latron_wraith_receiver",
+        "sellers": 3,
+        "min_sell": 14,
+        "avg_sell": 15.0,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/latron_wraith_receiver"
+    },
+    {
+        "item_name": "latron_wraith_stock",
+        "sellers": 1,
+        "min_sell": 20,
+        "avg_sell": 20.0,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/latron_wraith_stock"
+    },
+    {
+        "item_name": "latron_wraith_set",
+        "sellers": 5,
+        "min_sell": 50,
+        "avg_sell": 79.0,
+        "buyers": 1,
+        "max_buy": 32,
+        "avg_buy": 32.0,
+        "web_url": "https://warframe.market/items/latron_wraith_set"
+    },
+    {
+        "item_name": "latron_prime_receiver",
+        "sellers": 6,
+        "min_sell": 20,
+        "avg_sell": 30.83,
+        "buyers": 2,
+        "max_buy": 12,
+        "avg_buy": 11.0,
+        "web_url": "https://warframe.market/items/latron_prime_receiver"
+    },
+    {
+        "item_name": "latron_prime_stock",
+        "sellers": 5,
+        "min_sell": 15,
+        "avg_sell": 31.0,
+        "buyers": 1,
+        "max_buy": 10,
+        "avg_buy": 10.0,
+        "web_url": "https://warframe.market/items/latron_prime_stock"
+    },
+    {
+        "item_name": "latron_prime_blueprint",
+        "sellers": 7,
+        "min_sell": 10,
+        "avg_sell": 15.0,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/latron_prime_blueprint"
+    },
+    {
+        "item_name": "limbo_prime_systems",
+        "sellers": 13,
+        "min_sell": 5,
+        "avg_sell": 11.69,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/limbo_prime_systems"
+    },
+    {
+        "item_name": "limbo_prime_set",
+        "sellers": 21,
+        "min_sell": 118,
+        "avg_sell": 163.24,
+        "buyers": 11,
+        "max_buy": 106,
+        "avg_buy": 92.0,
+        "web_url": "https://warframe.market/items/limbo_prime_set"
+    },
+    {
+        "item_name": "limbo_prime_blueprint",
+        "sellers": 14,
+        "min_sell": 9,
+        "avg_sell": 13.5,
+        "buyers": 2,
+        "max_buy": 3,
+        "avg_buy": 2.5,
+        "web_url": "https://warframe.market/items/limbo_prime_blueprint"
+    },
+    {
+        "item_name": "limbo_prime_chassis",
+        "sellers": 12,
+        "min_sell": 67,
+        "avg_sell": 78.42,
+        "buyers": 8,
+        "max_buy": 58,
+        "avg_buy": 49.62,
+        "web_url": "https://warframe.market/items/limbo_prime_chassis"
+    },
+    {
+        "item_name": "limbo_prime_neuroptics",
+        "sellers": 9,
+        "min_sell": 40,
+        "avg_sell": 48.78,
+        "buyers": 3,
+        "max_buy": 22,
+        "avg_buy": 15.0,
+        "web_url": "https://warframe.market/items/limbo_prime_neuroptics"
+    },
+    {
+        "item_name": "loki_prime_systems",
+        "sellers": 13,
+        "min_sell": 59,
+        "avg_sell": 98.23,
+        "buyers": 5,
+        "max_buy": 48,
+        "avg_buy": 41.0,
+        "web_url": "https://warframe.market/items/loki_prime_systems"
+    },
+    {
+        "item_name": "loki_prime_chassis",
+        "sellers": 11,
+        "min_sell": 60,
+        "avg_sell": 71.64,
+        "buyers": 8,
+        "max_buy": 47,
+        "avg_buy": 40.5,
+        "web_url": "https://warframe.market/items/loki_prime_chassis"
+    },
+    {
+        "item_name": "loki_prime_neuroptics",
+        "sellers": 9,
+        "min_sell": 45,
+        "avg_sell": 58.33,
+        "buyers": 8,
+        "max_buy": 33,
+        "avg_buy": 24.12,
+        "web_url": "https://warframe.market/items/loki_prime_neuroptics"
+    },
+    {
+        "item_name": "loki_prime_blueprint",
+        "sellers": 6,
+        "min_sell": 15,
+        "avg_sell": 28.17,
+        "buyers": 1,
+        "max_buy": 9,
+        "avg_buy": 9.0,
+        "web_url": "https://warframe.market/items/loki_prime_blueprint"
+    },
+    {
+        "item_name": "loki_prime_set",
+        "sellers": 44,
+        "min_sell": 185,
+        "avg_sell": 497.68,
+        "buyers": 13,
+        "max_buy": 180,
+        "avg_buy": 138.23,
+        "web_url": "https://warframe.market/items/loki_prime_set"
+    },
+    {
+        "item_name": "polar_magazine",
+        "sellers": 9,
+        "min_sell": 4,
+        "avg_sell": 20.22,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/polar_magazine"
+    },
+    {
+        "item_name": "arcane_gauss_mag_helmet",
+        "sellers": 0,
+        "min_sell": 0,
+        "avg_sell": 0,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/arcane_gauss_mag_helmet"
+    },
+    {
+        "item_name": "magazine_extension",
+        "sellers": 8,
+        "min_sell": 5,
+        "avg_sell": 21.5,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/magazine_extension"
+    },
+    {
+        "item_name": "pressurized_magazine",
+        "sellers": 9,
+        "min_sell": 5,
+        "avg_sell": 25.56,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/pressurized_magazine"
+    },
+    {
+        "item_name": "mag_prime_chassis",
+        "sellers": 7,
+        "min_sell": 29,
+        "avg_sell": 59.14,
+        "buyers": 8,
+        "max_buy": 26,
+        "avg_buy": 16.75,
+        "web_url": "https://warframe.market/items/mag_prime_chassis"
+    },
+    {
+        "item_name": "magazine_warp",
+        "sellers": 5,
+        "min_sell": 3,
+        "avg_sell": 23.0,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/magazine_warp"
+    },
+    {
+        "item_name": "magus_vigor",
+        "sellers": 18,
+        "min_sell": 2,
+        "avg_sell": 20.61,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/magus_vigor"
+    },
+    {
+        "item_name": "magus_repair",
+        "sellers": 19,
+        "min_sell": 8,
+        "avg_sell": 104.89,
+        "buyers": 4,
+        "max_buy": 95,
+        "avg_buy": 80.25,
+        "web_url": "https://warframe.market/items/magus_repair"
+    },
+    {
+        "item_name": "magus_glitch",
+        "sellers": 6,
+        "min_sell": 15,
+        "avg_sell": 193.0,
+        "buyers": 1,
+        "max_buy": 135,
+        "avg_buy": 135.0,
+        "web_url": "https://warframe.market/items/magus_glitch"
+    },
+    {
+        "item_name": "magus_overload",
+        "sellers": 3,
+        "min_sell": 180,
+        "avg_sell": 258.33,
+        "buyers": 1,
+        "max_buy": 10,
+        "avg_buy": 10.0,
+        "web_url": "https://warframe.market/items/magus_overload"
+    },
+    {
+        "item_name": "trick_mag",
+        "sellers": 6,
+        "min_sell": 1,
+        "avg_sell": 20.67,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/trick_mag"
+    },
+    {
+        "item_name": "eject_magazine",
+        "sellers": 4,
+        "min_sell": 15,
+        "avg_sell": 46.0,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/eject_magazine"
+    },
+    {
+        "item_name": "mag_prime_set",
+        "sellers": 24,
+        "min_sell": 190,
+        "avg_sell": 214.0,
+        "buyers": 24,
+        "max_buy": 175,
+        "avg_buy": 130.79,
+        "web_url": "https://warframe.market/items/mag_prime_set"
+    },
+    {
+        "item_name": "magus_anomaly",
+        "sellers": 18,
+        "min_sell": 8,
+        "avg_sell": 106.78,
+        "buyers": 1,
+        "max_buy": 50,
+        "avg_buy": 50.0,
+        "web_url": "https://warframe.market/items/magus_anomaly"
+    },
+    {
+        "item_name": "mag_locks",
+        "sellers": 4,
+        "min_sell": 24,
+        "avg_sell": 50.5,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/mag_locks"
+    },
+    {
+        "item_name": "mag_prime_neuroptics",
+        "sellers": 12,
+        "min_sell": 28,
+        "avg_sell": 35.67,
+        "buyers": 2,
+        "max_buy": 15,
+        "avg_buy": 12.5,
+        "web_url": "https://warframe.market/items/mag_prime_neuroptics"
+    },
+    {
+        "item_name": "mag_prime_systems",
+        "sellers": 7,
+        "min_sell": 30,
+        "avg_sell": 55.14,
+        "buyers": 6,
+        "max_buy": 35,
+        "avg_buy": 22.83,
+        "web_url": "https://warframe.market/items/mag_prime_systems"
+    },
+    {
+        "item_name": "slip_magazine",
+        "sellers": 3,
+        "min_sell": 8,
+        "avg_sell": 32.0,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/slip_magazine"
+    },
+    {
+        "item_name": "maglev",
+        "sellers": 10,
+        "min_sell": 5,
+        "avg_sell": 18.9,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/maglev"
+    },
+    {
+        "item_name": "loose_magazine",
+        "sellers": 0,
+        "min_sell": 0,
+        "avg_sell": 0,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/loose_magazine"
+    },
+    {
+        "item_name": "tainted_mag",
+        "sellers": 22,
+        "min_sell": 2,
+        "avg_sell": 29.77,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/tainted_mag"
+    },
+    {
+        "item_name": "primed_slip_magazine",
+        "sellers": 19,
+        "min_sell": 30,
+        "avg_sell": 119.21,
+        "buyers": 1,
+        "max_buy": 86,
+        "avg_buy": 86.0,
+        "web_url": "https://warframe.market/items/primed_slip_magazine"
+    },
+    {
+        "item_name": "magnum_force",
+        "sellers": 39,
+        "min_sell": 4,
+        "avg_sell": 45.1,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/magnum_force"
+    },
+    {
+        "item_name": "magus_drive",
+        "sellers": 4,
+        "min_sell": 200,
+        "avg_sell": 253.5,
+        "buyers": 3,
+        "max_buy": 135,
+        "avg_buy": 81.0,
+        "web_url": "https://warframe.market/items/magus_drive"
+    },
+    {
+        "item_name": "magma_chamber",
+        "sellers": 24,
+        "min_sell": 10,
+        "avg_sell": 25.38,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/magma_chamber"
+    },
+    {
+        "item_name": "magus_cadence",
+        "sellers": 10,
+        "min_sell": 5,
+        "avg_sell": 42.9,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/magus_cadence"
+    },
+    {
+        "item_name": "magus_nourish",
+        "sellers": 10,
+        "min_sell": 4,
+        "avg_sell": 30.2,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/magus_nourish"
+    },
+    {
+        "item_name": "magnetized_discharge",
+        "sellers": 5,
+        "min_sell": 20,
+        "avg_sell": 29.4,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/magnetized_discharge"
+    },
+    {
+        "item_name": "magus_accelerant",
+        "sellers": 3,
+        "min_sell": 200,
+        "avg_sell": 247.67,
+        "buyers": 3,
+        "max_buy": 135,
+        "avg_buy": 115.0,
+        "web_url": "https://warframe.market/items/magus_accelerant"
+    },
+    {
+        "item_name": "mag_prime_blueprint",
+        "sellers": 9,
+        "min_sell": 79,
+        "avg_sell": 108.56,
+        "buyers": 8,
+        "max_buy": 62,
+        "avg_buy": 48.38,
+        "web_url": "https://warframe.market/items/mag_prime_blueprint"
+    },
+    {
+        "item_name": "sancti_magistar",
+        "sellers": 6,
+        "min_sell": 40,
+        "avg_sell": 43.67,
+        "buyers": 1,
+        "max_buy": 15,
+        "avg_buy": 15.0,
+        "web_url": "https://warframe.market/items/sancti_magistar"
+    },
+    {
+        "item_name": "magus_replenish",
+        "sellers": 17,
+        "min_sell": 3,
+        "avg_sell": 55.06,
+        "buyers": 1,
+        "max_buy": 40,
+        "avg_buy": 40.0,
+        "web_url": "https://warframe.market/items/magus_replenish"
+    },
+    {
+        "item_name": "magus_cloud",
+        "sellers": 21,
+        "min_sell": 4,
+        "avg_sell": 50.19,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/magus_cloud"
+    },
+    {
+        "item_name": "burdened_magazine",
+        "sellers": 20,
+        "min_sell": 2,
+        "avg_sell": 7.9,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/burdened_magazine"
+    },
+    {
+        "item_name": "magus_melt",
+        "sellers": 13,
+        "min_sell": 10,
+        "avg_sell": 139.31,
+        "buyers": 2,
+        "max_buy": 140,
+        "avg_buy": 137.5,
+        "web_url": "https://warframe.market/items/magus_melt"
+    },
+    {
+        "item_name": "magus_firewall",
+        "sellers": 6,
+        "min_sell": 13,
+        "avg_sell": 174.17,
+        "buyers": 2,
+        "max_buy": 200,
+        "avg_buy": 105.0,
+        "web_url": "https://warframe.market/items/magus_firewall"
+    },
+    {
+        "item_name": "magus_destruct",
+        "sellers": 2,
+        "min_sell": 300,
+        "avg_sell": 307.5,
+        "buyers": 2,
+        "max_buy": 135,
+        "avg_buy": 117.5,
+        "web_url": "https://warframe.market/items/magus_destruct"
+    },
+    {
+        "item_name": "magus_husk",
+        "sellers": 9,
+        "min_sell": 4,
+        "avg_sell": 46.11,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/magus_husk"
+    },
+    {
+        "item_name": "magus_elevate",
+        "sellers": 25,
+        "min_sell": 5,
+        "avg_sell": 48.16,
+        "buyers": 3,
+        "max_buy": 15,
+        "avg_buy": 10.67,
+        "web_url": "https://warframe.market/items/magus_elevate"
+    },
+    {
+        "item_name": "magus_revert",
+        "sellers": 4,
+        "min_sell": 10,
+        "avg_sell": 173.5,
+        "buyers": 1,
+        "max_buy": 135,
+        "avg_buy": 135.0,
+        "web_url": "https://warframe.market/items/magus_revert"
+    },
+    {
+        "item_name": "magus_lockdown",
+        "sellers": 25,
+        "min_sell": 7,
+        "avg_sell": 99.6,
+        "buyers": 8,
+        "max_buy": 83,
+        "avg_buy": 37.0,
+        "web_url": "https://warframe.market/items/magus_lockdown"
+    },
+    {
+        "item_name": "magnus_prime_set",
+        "sellers": 24,
+        "min_sell": 19,
+        "avg_sell": 44.29,
+        "buyers": 4,
+        "max_buy": 15,
+        "avg_buy": 13.0,
+        "web_url": "https://warframe.market/items/magnus_prime_set"
+    },
+    {
+        "item_name": "primed_magazine_warp",
+        "sellers": 11,
+        "min_sell": 100,
+        "avg_sell": 216.73,
+        "buyers": 5,
+        "max_buy": 110,
+        "avg_buy": 83.0,
+        "web_url": "https://warframe.market/items/primed_magazine_warp"
+    },
+    {
+        "item_name": "magnus_prime_blueprint",
+        "sellers": 8,
+        "min_sell": 4,
+        "avg_sell": 7.5,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/magnus_prime_blueprint"
+    },
+    {
+        "item_name": "magnus_prime_receiver",
+        "sellers": 15,
+        "min_sell": 3,
+        "avg_sell": 8.33,
+        "buyers": 4,
+        "max_buy": 3,
+        "avg_buy": 2.25,
+        "web_url": "https://warframe.market/items/magnus_prime_receiver"
+    },
+    {
+        "item_name": "magnus_prime_barrel",
+        "sellers": 8,
+        "min_sell": 12,
+        "avg_sell": 25.5,
+        "buyers": 6,
+        "max_buy": 11,
+        "avg_buy": 8.5,
+        "web_url": "https://warframe.market/items/magnus_prime_barrel"
+    },
+    {
+        "item_name": "mesa_prime_blueprint",
+        "sellers": 21,
+        "min_sell": 5,
+        "avg_sell": 10.95,
+        "buyers": 4,
+        "max_buy": 3,
+        "avg_buy": 2.5,
+        "web_url": "https://warframe.market/items/mesa_prime_blueprint"
+    },
+    {
+        "item_name": "mesas_waltz",
+        "sellers": 18,
+        "min_sell": 10,
+        "avg_sell": 18.56,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/mesas_waltz"
+    },
+    {
+        "item_name": "mesa_prime_neuroptics",
+        "sellers": 10,
+        "min_sell": 35,
+        "avg_sell": 49.1,
+        "buyers": 4,
+        "max_buy": 29,
+        "avg_buy": 20.75,
+        "web_url": "https://warframe.market/items/mesa_prime_neuroptics"
+    },
+    {
+        "item_name": "mesa_prime_set",
+        "sellers": 42,
+        "min_sell": 90,
+        "avg_sell": 124.1,
+        "buyers": 16,
+        "max_buy": 85,
+        "avg_buy": 69.31,
+        "web_url": "https://warframe.market/items/mesa_prime_set"
+    },
+    {
+        "item_name": "mesa_prime_systems",
+        "sellers": 9,
+        "min_sell": 40,
+        "avg_sell": 55.33,
+        "buyers": 7,
+        "max_buy": 35,
+        "avg_buy": 23.14,
+        "web_url": "https://warframe.market/items/mesa_prime_systems"
+    },
+    {
+        "item_name": "mesa_prime_chassis",
+        "sellers": 17,
+        "min_sell": 8,
+        "avg_sell": 12.18,
+        "buyers": 4,
+        "max_buy": 7,
+        "avg_buy": 4.25,
+        "web_url": "https://warframe.market/items/mesa_prime_chassis"
+    },
+    {
+        "item_name": "mirage_prime_systems",
+        "sellers": 12,
+        "min_sell": 14,
+        "avg_sell": 20.33,
+        "buyers": 3,
+        "max_buy": 5,
+        "avg_buy": 3.0,
+        "web_url": "https://warframe.market/items/mirage_prime_systems"
+    },
+    {
+        "item_name": "mirage_prime_blueprint",
+        "sellers": 13,
+        "min_sell": 35,
+        "avg_sell": 63.38,
+        "buyers": 12,
+        "max_buy": 50,
+        "avg_buy": 30.08,
+        "web_url": "https://warframe.market/items/mirage_prime_blueprint"
+    },
+    {
+        "item_name": "mirage_prime_chassis",
+        "sellers": 12,
+        "min_sell": 9,
+        "avg_sell": 14.33,
+        "buyers": 1,
+        "max_buy": 5,
+        "avg_buy": 5.0,
+        "web_url": "https://warframe.market/items/mirage_prime_chassis"
+    },
+    {
+        "item_name": "mirage_prime_neuroptics",
+        "sellers": 20,
+        "min_sell": 5,
+        "avg_sell": 10.2,
+        "buyers": 1,
+        "max_buy": 2,
+        "avg_buy": 2.0,
+        "web_url": "https://warframe.market/items/mirage_prime_neuroptics"
+    },
+    {
+        "item_name": "mirage_prime_set",
+        "sellers": 46,
+        "min_sell": 85,
+        "avg_sell": 121.85,
+        "buyers": 10,
+        "max_buy": 83,
+        "avg_buy": 56.1,
+        "web_url": "https://warframe.market/items/mirage_prime_set"
+    },
+    {
+        "item_name": "nami_skyla_prime_handle",
+        "sellers": 11,
+        "min_sell": 17,
+        "avg_sell": 27.73,
+        "buyers": 7,
+        "max_buy": 15,
+        "avg_buy": 12.57,
+        "web_url": "https://warframe.market/items/nami_skyla_prime_handle"
+    },
+    {
+        "item_name": "nami_skyla_prime_blade",
+        "sellers": 8,
+        "min_sell": 35,
+        "avg_sell": 69.38,
+        "buyers": 9,
+        "max_buy": 40,
+        "avg_buy": 31.89,
+        "web_url": "https://warframe.market/items/nami_skyla_prime_blade"
+    },
+    {
+        "item_name": "nami_skyla_prime_set",
+        "sellers": 12,
+        "min_sell": 155,
+        "avg_sell": 205.08,
+        "buyers": 9,
+        "max_buy": 150,
+        "avg_buy": 122.22,
+        "web_url": "https://warframe.market/items/nami_skyla_prime_set"
+    },
+    {
+        "item_name": "nami_skyla_prime_blueprint",
+        "sellers": 8,
+        "min_sell": 15,
+        "avg_sell": 24.25,
+        "buyers": 3,
+        "max_buy": 15,
+        "avg_buy": 11.67,
+        "web_url": "https://warframe.market/items/nami_skyla_prime_blueprint"
+    },
+    {
+        "item_name": "nekros_prime_neuroptics",
+        "sellers": 9,
+        "min_sell": 40,
+        "avg_sell": 59.44,
+        "buyers": 15,
+        "max_buy": 37,
+        "avg_buy": 22.47,
+        "web_url": "https://warframe.market/items/nekros_prime_neuroptics"
+    },
+    {
+        "item_name": "nekros_prime_chassis",
+        "sellers": 16,
+        "min_sell": 10,
+        "avg_sell": 18.56,
+        "buyers": 8,
+        "max_buy": 10,
+        "avg_buy": 7.88,
+        "web_url": "https://warframe.market/items/nekros_prime_chassis"
+    },
+    {
+        "item_name": "nekros_prime_blueprint",
+        "sellers": 12,
+        "min_sell": 69,
+        "avg_sell": 76.75,
+        "buyers": 11,
+        "max_buy": 58,
+        "avg_buy": 46.0,
+        "web_url": "https://warframe.market/items/nekros_prime_blueprint"
+    },
+    {
+        "item_name": "nekros_prime_set",
+        "sellers": 22,
+        "min_sell": 195,
+        "avg_sell": 227.91,
+        "buyers": 16,
+        "max_buy": 185,
+        "avg_buy": 158.19,
+        "web_url": "https://warframe.market/items/nekros_prime_set"
+    },
+    {
+        "item_name": "nekros_prime_systems",
+        "sellers": 19,
+        "min_sell": 70,
+        "avg_sell": 89.95,
+        "buyers": 16,
+        "max_buy": 61,
+        "avg_buy": 46.12,
+        "web_url": "https://warframe.market/items/nekros_prime_systems"
+    },
+    {
+        "item_name": "nikana_prime_hilt",
+        "sellers": 16,
+        "min_sell": 89,
+        "avg_sell": 101.62,
+        "buyers": 8,
+        "max_buy": 75,
+        "avg_buy": 62.5,
+        "web_url": "https://warframe.market/items/nikana_prime_hilt"
+    },
+    {
+        "item_name": "nikana_prime_set",
+        "sellers": 23,
+        "min_sell": 150,
+        "avg_sell": 178.87,
+        "buyers": 19,
+        "max_buy": 135,
+        "avg_buy": 107.84,
+        "web_url": "https://warframe.market/items/nikana_prime_set"
+    },
+    {
+        "item_name": "nikana_prime_blueprint",
+        "sellers": 14,
+        "min_sell": 10,
+        "avg_sell": 15.0,
+        "buyers": 2,
+        "max_buy": 5,
+        "avg_buy": 3.5,
+        "web_url": "https://warframe.market/items/nikana_prime_blueprint"
+    },
+    {
+        "item_name": "nikana_prime_blade",
+        "sellers": 14,
+        "min_sell": 40,
+        "avg_sell": 50.07,
+        "buyers": 3,
+        "max_buy": 30,
+        "avg_buy": 25.0,
+        "web_url": "https://warframe.market/items/nikana_prime_blade"
+    },
+    {
+        "item_name": "ninkondi_prime_chain",
+        "sellers": 11,
+        "min_sell": 3,
+        "avg_sell": 7.82,
+        "buyers": 4,
+        "max_buy": 3,
+        "avg_buy": 2.25,
+        "web_url": "https://warframe.market/items/ninkondi_prime_chain"
+    },
+    {
+        "item_name": "ninkondi_prime_blueprint",
+        "sellers": 9,
+        "min_sell": 5,
+        "avg_sell": 10.22,
+        "buyers": 1,
+        "max_buy": 2,
+        "avg_buy": 2.0,
+        "web_url": "https://warframe.market/items/ninkondi_prime_blueprint"
+    },
+    {
+        "item_name": "ninkondi_prime_handle",
+        "sellers": 8,
+        "min_sell": 20,
+        "avg_sell": 38.5,
+        "buyers": 4,
+        "max_buy": 15,
+        "avg_buy": 11.25,
+        "web_url": "https://warframe.market/items/ninkondi_prime_handle"
+    },
+    {
+        "item_name": "ninkondi_prime_set",
+        "sellers": 16,
+        "min_sell": 69,
+        "avg_sell": 89.94,
+        "buyers": 2,
+        "max_buy": 51,
+        "avg_buy": 50.5,
+        "web_url": "https://warframe.market/items/ninkondi_prime_set"
+    },
+    {
+        "item_name": "nova_prime_systems",
+        "sellers": 11,
+        "min_sell": 9,
+        "avg_sell": 18.55,
+        "buyers": 4,
+        "max_buy": 7,
+        "avg_buy": 5.0,
+        "web_url": "https://warframe.market/items/nova_prime_systems"
+    },
+    {
+        "item_name": "nova_prime_neuroptics",
+        "sellers": 12,
+        "min_sell": 15,
+        "avg_sell": 48.92,
+        "buyers": 2,
+        "max_buy": 7,
+        "avg_buy": 6.0,
+        "web_url": "https://warframe.market/items/nova_prime_neuroptics"
+    },
+    {
+        "item_name": "nova_prime_chassis",
+        "sellers": 11,
+        "min_sell": 50,
+        "avg_sell": 73.09,
+        "buyers": 9,
+        "max_buy": 41,
+        "avg_buy": 32.89,
+        "web_url": "https://warframe.market/items/nova_prime_chassis"
+    },
+    {
+        "item_name": "nova_prime_blueprint",
+        "sellers": 15,
+        "min_sell": 13,
+        "avg_sell": 17.07,
+        "buyers": 5,
+        "max_buy": 9,
+        "avg_buy": 7.0,
+        "web_url": "https://warframe.market/items/nova_prime_blueprint"
+    },
+    {
+        "item_name": "nova_prime_set",
+        "sellers": 29,
+        "min_sell": 100,
+        "avg_sell": 135.66,
+        "buyers": 20,
+        "max_buy": 95,
+        "avg_buy": 78.2,
+        "web_url": "https://warframe.market/items/nova_prime_set"
+    },
+    {
+        "item_name": "oberon_prime_neuroptics",
+        "sellers": 8,
+        "min_sell": 33,
+        "avg_sell": 48.0,
+        "buyers": 2,
+        "max_buy": 22,
+        "avg_buy": 20.0,
+        "web_url": "https://warframe.market/items/oberon_prime_neuroptics"
+    },
+    {
+        "item_name": "oberon_prime_set",
+        "sellers": 27,
+        "min_sell": 100,
+        "avg_sell": 129.15,
+        "buyers": 12,
+        "max_buy": 95,
+        "avg_buy": 78.42,
+        "web_url": "https://warframe.market/items/oberon_prime_set"
+    },
+    {
+        "item_name": "oberon_prime_chassis",
+        "sellers": 5,
+        "min_sell": 13,
+        "avg_sell": 24.2,
+        "buyers": 1,
+        "max_buy": 8,
+        "avg_buy": 8.0,
+        "web_url": "https://warframe.market/items/oberon_prime_chassis"
+    },
+    {
+        "item_name": "oberon_prime_systems",
+        "sellers": 16,
+        "min_sell": 29,
+        "avg_sell": 38.88,
+        "buyers": 1,
+        "max_buy": 12,
+        "avg_buy": 12.0,
+        "web_url": "https://warframe.market/items/oberon_prime_systems"
+    },
+    {
+        "item_name": "oberon_prime_blueprint",
+        "sellers": 18,
+        "min_sell": 8,
+        "avg_sell": 12.83,
+        "buyers": 2,
+        "max_buy": 4,
+        "avg_buy": 3.0,
+        "web_url": "https://warframe.market/items/oberon_prime_blueprint"
+    },
+    {
+        "item_name": "odonata_prime_harness",
+        "sellers": 10,
+        "min_sell": 15,
+        "avg_sell": 24.1,
+        "buyers": 2,
+        "max_buy": 6,
+        "avg_buy": 5.5,
+        "web_url": "https://warframe.market/items/odonata_prime_harness"
+    },
+    {
+        "item_name": "odonata_prime_systems",
+        "sellers": 10,
+        "min_sell": 8,
+        "avg_sell": 16.0,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/odonata_prime_systems"
+    },
+    {
+        "item_name": "odonata_prime_set",
+        "sellers": 25,
+        "min_sell": 40,
+        "avg_sell": 76.16,
+        "buyers": 4,
+        "max_buy": 40,
+        "avg_buy": 26.25,
+        "web_url": "https://warframe.market/items/odonata_prime_set"
+    },
+    {
+        "item_name": "odonata_prime_blueprint",
+        "sellers": 11,
+        "min_sell": 7,
+        "avg_sell": 13.45,
+        "buyers": 5,
+        "max_buy": 5,
+        "avg_buy": 3.2,
+        "web_url": "https://warframe.market/items/odonata_prime_blueprint"
+    },
+    {
+        "item_name": "odonata_prime_wings",
+        "sellers": 7,
+        "min_sell": 25,
+        "avg_sell": 43.14,
+        "buyers": 1,
+        "max_buy": 15,
+        "avg_buy": 15.0,
+        "web_url": "https://warframe.market/items/odonata_prime_wings"
+    },
+    {
+        "item_name": "pangolin_prime_blade",
+        "sellers": 8,
+        "min_sell": 5,
+        "avg_sell": 11.0,
+        "buyers": 2,
+        "max_buy": 2,
+        "avg_buy": 2.0,
+        "web_url": "https://warframe.market/items/pangolin_prime_blade"
+    },
+    {
+        "item_name": "pangolin_prime_set",
+        "sellers": 23,
+        "min_sell": 18,
+        "avg_sell": 55.13,
+        "buyers": 3,
+        "max_buy": 16,
+        "avg_buy": 12.33,
+        "web_url": "https://warframe.market/items/pangolin_prime_set"
+    },
+    {
+        "item_name": "pangolin_prime_handle",
+        "sellers": 5,
+        "min_sell": 5,
+        "avg_sell": 12.2,
+        "buyers": 1,
+        "max_buy": 3,
+        "avg_buy": 3.0,
+        "web_url": "https://warframe.market/items/pangolin_prime_handle"
+    },
+    {
+        "item_name": "pangolin_prime_blueprint",
+        "sellers": 10,
+        "min_sell": 10,
+        "avg_sell": 26.3,
+        "buyers": 9,
+        "max_buy": 11,
+        "avg_buy": 8.67,
+        "web_url": "https://warframe.market/items/pangolin_prime_blueprint"
+    },
+    {
+        "item_name": "pyrana_prime_blueprint",
+        "sellers": 5,
+        "min_sell": 40,
+        "avg_sell": 58.6,
+        "buyers": 4,
+        "max_buy": 35,
+        "avg_buy": 24.0,
+        "web_url": "https://warframe.market/items/pyrana_prime_blueprint"
+    },
+    {
+        "item_name": "pyrana_prime_receiver",
+        "sellers": 6,
+        "min_sell": 10,
+        "avg_sell": 13.33,
+        "buyers": 1,
+        "max_buy": 2,
+        "avg_buy": 2.0,
+        "web_url": "https://warframe.market/items/pyrana_prime_receiver"
+    },
+    {
+        "item_name": "pyrana_prime_barrel",
+        "sellers": 10,
+        "min_sell": 7,
+        "avg_sell": 12.0,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/pyrana_prime_barrel"
+    },
+    {
+        "item_name": "pyrana_prime_set",
+        "sellers": 22,
+        "min_sell": 75,
+        "avg_sell": 93.09,
+        "buyers": 4,
+        "max_buy": 50,
+        "avg_buy": 46.25,
+        "web_url": "https://warframe.market/items/pyrana_prime_set"
+    },
+    {
+        "item_name": "reaper_prime_blueprint",
+        "sellers": 9,
+        "min_sell": 12,
+        "avg_sell": 22.33,
+        "buyers": 1,
+        "max_buy": 5,
+        "avg_buy": 5.0,
+        "web_url": "https://warframe.market/items/reaper_prime_blueprint"
+    },
+    {
+        "item_name": "reaper_prime_blade",
+        "sellers": 7,
+        "min_sell": 11,
+        "avg_sell": 25.86,
+        "buyers": 1,
+        "max_buy": 10,
+        "avg_buy": 10.0,
+        "web_url": "https://warframe.market/items/reaper_prime_blade"
+    },
+    {
+        "item_name": "reaper_prime_set",
+        "sellers": 30,
+        "min_sell": 59,
+        "avg_sell": 83.5,
+        "buyers": 4,
+        "max_buy": 53,
+        "avg_buy": 44.0,
+        "web_url": "https://warframe.market/items/reaper_prime_set"
+    },
+    {
+        "item_name": "reaper_prime_handle",
+        "sellers": 6,
+        "min_sell": 23,
+        "avg_sell": 37.5,
+        "buyers": 2,
+        "max_buy": 10,
+        "avg_buy": 7.5,
+        "web_url": "https://warframe.market/items/reaper_prime_handle"
+    },
+    {
+        "item_name": "redeemer_prime_blade",
+        "sellers": 10,
+        "min_sell": 10,
+        "avg_sell": 13.2,
+        "buyers": 3,
+        "max_buy": 5,
+        "avg_buy": 3.33,
+        "web_url": "https://warframe.market/items/redeemer_prime_blade"
+    },
+    {
+        "item_name": "redeemer_prime_blueprint",
+        "sellers": 18,
+        "min_sell": 6,
+        "avg_sell": 11.39,
+        "buyers": 3,
+        "max_buy": 2,
+        "avg_buy": 2.0,
+        "web_url": "https://warframe.market/items/redeemer_prime_blueprint"
+    },
+    {
+        "item_name": "redeemer_prime_set",
+        "sellers": 26,
+        "min_sell": 70,
+        "avg_sell": 101.62,
+        "buyers": 5,
+        "max_buy": 70,
+        "avg_buy": 55.2,
+        "web_url": "https://warframe.market/items/redeemer_prime_set"
+    },
+    {
+        "item_name": "redeemer_prime_handle",
+        "sellers": 9,
+        "min_sell": 54,
+        "avg_sell": 57.67,
+        "buyers": 8,
+        "max_buy": 40,
+        "avg_buy": 31.12,
+        "web_url": "https://warframe.market/items/redeemer_prime_handle"
+    },
+    {
+        "item_name": "rhino_prime_neuroptics",
+        "sellers": 17,
+        "min_sell": 20,
+        "avg_sell": 31.94,
+        "buyers": 10,
+        "max_buy": 15,
+        "avg_buy": 11.3,
+        "web_url": "https://warframe.market/items/rhino_prime_neuroptics"
+    },
+    {
+        "item_name": "rhino_prime_blueprint",
+        "sellers": 13,
+        "min_sell": 35,
+        "avg_sell": 49.23,
+        "buyers": 9,
+        "max_buy": 35,
+        "avg_buy": 27.11,
+        "web_url": "https://warframe.market/items/rhino_prime_blueprint"
+    },
+    {
+        "item_name": "rhino_prime_set",
+        "sellers": 42,
+        "min_sell": 98,
+        "avg_sell": 165.29,
+        "buyers": 9,
+        "max_buy": 90,
+        "avg_buy": 78.67,
+        "web_url": "https://warframe.market/items/rhino_prime_set"
+    },
+    {
+        "item_name": "rhino_prime_chassis",
+        "sellers": 14,
+        "min_sell": 17,
+        "avg_sell": 29.71,
+        "buyers": 8,
+        "max_buy": 15,
+        "avg_buy": 10.5,
+        "web_url": "https://warframe.market/items/rhino_prime_chassis"
+    },
+    {
+        "item_name": "rhino_prime_systems",
+        "sellers": 20,
+        "min_sell": 9,
+        "avg_sell": 14.55,
+        "buyers": 5,
+        "max_buy": 7,
+        "avg_buy": 4.6,
+        "web_url": "https://warframe.market/items/rhino_prime_systems"
+    },
+    {
+        "item_name": "saryn_prime_set",
+        "sellers": 28,
+        "min_sell": 199,
+        "avg_sell": 243.04,
+        "buyers": 24,
+        "max_buy": 181,
+        "avg_buy": 154.67,
+        "web_url": "https://warframe.market/items/saryn_prime_set"
+    },
+    {
+        "item_name": "saryn_prime_blueprint",
+        "sellers": 12,
+        "min_sell": 50,
+        "avg_sell": 84.33,
+        "buyers": 8,
+        "max_buy": 41,
+        "avg_buy": 29.62,
+        "web_url": "https://warframe.market/items/saryn_prime_blueprint"
+    },
+    {
+        "item_name": "saryn_prime_neuroptics",
+        "sellers": 15,
+        "min_sell": 25,
+        "avg_sell": 45.8,
+        "buyers": 12,
+        "max_buy": 21,
+        "avg_buy": 17.0,
+        "web_url": "https://warframe.market/items/saryn_prime_neuroptics"
+    },
+    {
+        "item_name": "saryn_prime_chassis",
+        "sellers": 17,
+        "min_sell": 95,
+        "avg_sell": 111.82,
+        "buyers": 19,
+        "max_buy": 90,
+        "avg_buy": 63.37,
+        "web_url": "https://warframe.market/items/saryn_prime_chassis"
+    },
+    {
+        "item_name": "saryn_prime_systems",
+        "sellers": 33,
+        "min_sell": 9,
+        "avg_sell": 18.0,
+        "buyers": 5,
+        "max_buy": 8,
+        "avg_buy": 6.0,
+        "web_url": "https://warframe.market/items/saryn_prime_systems"
+    },
+    {
+        "item_name": "sicarus_prime_set",
+        "sellers": 15,
+        "min_sell": 59,
+        "avg_sell": 80.07,
+        "buyers": 5,
+        "max_buy": 45,
+        "avg_buy": 34.2,
+        "web_url": "https://warframe.market/items/sicarus_prime_set"
+    },
+    {
+        "item_name": "sicarus_prime_barrel",
+        "sellers": 7,
+        "min_sell": 15,
+        "avg_sell": 28.71,
+        "buyers": 3,
+        "max_buy": 15,
+        "avg_buy": 11.67,
+        "web_url": "https://warframe.market/items/sicarus_prime_barrel"
+    },
+    {
+        "item_name": "sicarus_prime_receiver",
+        "sellers": 9,
+        "min_sell": 35,
+        "avg_sell": 51.22,
+        "buyers": 4,
+        "max_buy": 27,
+        "avg_buy": 24.25,
+        "web_url": "https://warframe.market/items/sicarus_prime_receiver"
+    },
+    {
+        "item_name": "sicarus_prime_blueprint",
+        "sellers": 8,
+        "min_sell": 8,
+        "avg_sell": 16.25,
+        "buyers": 1,
+        "max_buy": 6,
+        "avg_buy": 6.0,
+        "web_url": "https://warframe.market/items/sicarus_prime_blueprint"
+    },
+    {
+        "item_name": "silva_and_aegis_prime_guard",
+        "sellers": 8,
+        "min_sell": 24,
+        "avg_sell": 34.12,
+        "buyers": 1,
+        "max_buy": 20,
+        "avg_buy": 20.0,
+        "web_url": "https://warframe.market/items/silva_and_aegis_prime_guard"
+    },
+    {
+        "item_name": "silva_and_aegis_prime_set",
+        "sellers": 22,
+        "min_sell": 64,
+        "avg_sell": 116.59,
+        "buyers": 3,
+        "max_buy": 40,
+        "avg_buy": 30.0,
+        "web_url": "https://warframe.market/items/silva_and_aegis_prime_set"
+    },
+    {
+        "item_name": "silva_and_aegis_prime_hilt",
+        "sellers": 10,
+        "min_sell": 8,
+        "avg_sell": 11.8,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/silva_and_aegis_prime_hilt"
+    },
+    {
+        "item_name": "silva_and_aegis_prime_blade",
+        "sellers": 3,
+        "min_sell": 15,
+        "avg_sell": 28.33,
+        "buyers": 2,
+        "max_buy": 5,
+        "avg_buy": 3.5,
+        "web_url": "https://warframe.market/items/silva_and_aegis_prime_blade"
+    },
+    {
+        "item_name": "silva_and_aegis_prime_blueprint",
+        "sellers": 10,
+        "min_sell": 10,
+        "avg_sell": 16.4,
+        "buyers": 1,
+        "max_buy": 2,
+        "avg_buy": 2.0,
+        "web_url": "https://warframe.market/items/silva_and_aegis_prime_blueprint"
+    },
+    {
+        "item_name": "soma_prime_blueprint",
+        "sellers": 14,
+        "min_sell": 9,
+        "avg_sell": 11.21,
+        "buyers": 1,
+        "max_buy": 3,
+        "avg_buy": 3.0,
+        "web_url": "https://warframe.market/items/soma_prime_blueprint"
+    },
+    {
+        "item_name": "soma_prime_receiver",
+        "sellers": 9,
+        "min_sell": 13,
+        "avg_sell": 28.78,
+        "buyers": 1,
+        "max_buy": 5,
+        "avg_buy": 5.0,
+        "web_url": "https://warframe.market/items/soma_prime_receiver"
+    },
+    {
+        "item_name": "soma_prime_stock",
+        "sellers": 9,
+        "min_sell": 25,
+        "avg_sell": 37.22,
+        "buyers": 1,
+        "max_buy": 20,
+        "avg_buy": 20.0,
+        "web_url": "https://warframe.market/items/soma_prime_stock"
+    },
+    {
+        "item_name": "soma_prime_barrel",
+        "sellers": 7,
+        "min_sell": 9,
+        "avg_sell": 25.57,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/soma_prime_barrel"
+    },
+    {
+        "item_name": "soma_prime_set",
+        "sellers": 17,
+        "min_sell": 70,
+        "avg_sell": 108.41,
+        "buyers": 4,
+        "max_buy": 60,
+        "avg_buy": 47.5,
+        "web_url": "https://warframe.market/items/soma_prime_set"
+    },
+    {
+        "item_name": "reaping_spiral",
+        "sellers": 28,
+        "min_sell": 2,
+        "avg_sell": 12.75,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/reaping_spiral"
+    },
+    {
+        "item_name": "spira_prime_blueprint",
+        "sellers": 11,
+        "min_sell": 5,
+        "avg_sell": 10.09,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/spira_prime_blueprint"
+    },
+    {
+        "item_name": "spira_prime_set",
+        "sellers": 13,
+        "min_sell": 169,
+        "avg_sell": 205.31,
+        "buyers": 7,
+        "max_buy": 140,
+        "avg_buy": 119.86,
+        "web_url": "https://warframe.market/items/spira_prime_set"
+    },
+    {
+        "item_name": "spira_prime_pouch",
+        "sellers": 5,
+        "min_sell": 45,
+        "avg_sell": 70.0,
+        "buyers": 2,
+        "max_buy": 40,
+        "avg_buy": 35.0,
+        "web_url": "https://warframe.market/items/spira_prime_pouch"
+    },
+    {
+        "item_name": "spira_prime_blade",
+        "sellers": 7,
+        "min_sell": 29,
+        "avg_sell": 39.0,
+        "buyers": 5,
+        "max_buy": 25,
+        "avg_buy": 17.2,
+        "web_url": "https://warframe.market/items/spira_prime_blade"
+    },
+    {
+        "item_name": "stradavar_prime_set",
+        "sellers": 16,
+        "min_sell": 49,
+        "avg_sell": 79.12,
+        "buyers": 2,
+        "max_buy": 15,
+        "avg_buy": 13.5,
+        "web_url": "https://warframe.market/items/stradavar_prime_set"
+    },
+    {
+        "item_name": "stradavar_prime_receiver",
+        "sellers": 3,
+        "min_sell": 10,
+        "avg_sell": 16.67,
+        "buyers": 2,
+        "max_buy": 5,
+        "avg_buy": 5.0,
+        "web_url": "https://warframe.market/items/stradavar_prime_receiver"
+    },
+    {
+        "item_name": "stradavar_prime_blueprint",
+        "sellers": 6,
+        "min_sell": 15,
+        "avg_sell": 34.67,
+        "buyers": 6,
+        "max_buy": 11,
+        "avg_buy": 8.83,
+        "web_url": "https://warframe.market/items/stradavar_prime_blueprint"
+    },
+    {
+        "item_name": "stradavar_prime_barrel",
+        "sellers": 10,
+        "min_sell": 4,
+        "avg_sell": 10.9,
+        "buyers": 2,
+        "max_buy": 2,
+        "avg_buy": 2.0,
+        "web_url": "https://warframe.market/items/stradavar_prime_barrel"
+    },
+    {
+        "item_name": "stradavar_prime_stock",
+        "sellers": 6,
+        "min_sell": 10,
+        "avg_sell": 17.67,
+        "buyers": 4,
+        "max_buy": 5,
+        "avg_buy": 4.0,
+        "web_url": "https://warframe.market/items/stradavar_prime_stock"
+    },
+    {
+        "item_name": "sybaris_prime_barrel",
+        "sellers": 2,
+        "min_sell": 35,
+        "avg_sell": 62.5,
+        "buyers": 4,
+        "max_buy": 30,
+        "avg_buy": 17.5,
+        "web_url": "https://warframe.market/items/sybaris_prime_barrel"
+    },
+    {
+        "item_name": "sybaris_prime_blueprint",
+        "sellers": 5,
+        "min_sell": 6,
+        "avg_sell": 13.2,
+        "buyers": 2,
+        "max_buy": 4,
+        "avg_buy": 3.5,
+        "web_url": "https://warframe.market/items/sybaris_prime_blueprint"
+    },
+    {
+        "item_name": "sybaris_prime_set",
+        "sellers": 15,
+        "min_sell": 69,
+        "avg_sell": 88.53,
+        "buyers": 1,
+        "max_buy": 25,
+        "avg_buy": 25.0,
+        "web_url": "https://warframe.market/items/sybaris_prime_set"
+    },
+    {
+        "item_name": "sybaris_prime_receiver",
+        "sellers": 7,
+        "min_sell": 9,
+        "avg_sell": 14.43,
+        "buyers": 3,
+        "max_buy": 10,
+        "avg_buy": 5.33,
+        "web_url": "https://warframe.market/items/sybaris_prime_receiver"
+    },
+    {
+        "item_name": "sybaris_prime_stock",
+        "sellers": 5,
+        "min_sell": 15,
+        "avg_sell": 33.8,
+        "buyers": 2,
+        "max_buy": 20,
+        "avg_buy": 13.5,
+        "web_url": "https://warframe.market/items/sybaris_prime_stock"
+    },
+    {
+        "item_name": "tekko_prime_gauntlet",
+        "sellers": 9,
+        "min_sell": 7,
+        "avg_sell": 13.44,
+        "buyers": 2,
+        "max_buy": 3,
+        "avg_buy": 2.5,
+        "web_url": "https://warframe.market/items/tekko_prime_gauntlet"
+    },
+    {
+        "item_name": "tekko_prime_blade",
+        "sellers": 8,
+        "min_sell": 38,
+        "avg_sell": 50.12,
+        "buyers": 5,
+        "max_buy": 25,
+        "avg_buy": 22.6,
+        "web_url": "https://warframe.market/items/tekko_prime_blade"
+    },
+    {
+        "item_name": "tekko_prime_set",
+        "sellers": 17,
+        "min_sell": 90,
+        "avg_sell": 133.41,
+        "buyers": 5,
+        "max_buy": 72,
+        "avg_buy": 56.8,
+        "web_url": "https://warframe.market/items/tekko_prime_set"
+    },
+    {
+        "item_name": "tekko_prime_blueprint",
+        "sellers": 9,
+        "min_sell": 3,
+        "avg_sell": 11.44,
+        "buyers": 3,
+        "max_buy": 2,
+        "avg_buy": 2.0,
+        "web_url": "https://warframe.market/items/tekko_prime_blueprint"
+    },
+    {
+        "item_name": "tigris_prime_receiver",
+        "sellers": 11,
+        "min_sell": 9,
+        "avg_sell": 14.73,
+        "buyers": 3,
+        "max_buy": 6,
+        "avg_buy": 4.0,
+        "web_url": "https://warframe.market/items/tigris_prime_receiver"
+    },
+    {
+        "item_name": "tigris_prime_stock",
+        "sellers": 4,
+        "min_sell": 7,
+        "avg_sell": 13.75,
+        "buyers": 1,
+        "max_buy": 6,
+        "avg_buy": 6.0,
+        "web_url": "https://warframe.market/items/tigris_prime_stock"
+    },
+    {
+        "item_name": "tigris_prime_barrel",
+        "sellers": 9,
+        "min_sell": 6,
+        "avg_sell": 10.56,
+        "buyers": 2,
+        "max_buy": 25,
+        "avg_buy": 13.5,
+        "web_url": "https://warframe.market/items/tigris_prime_barrel"
+    },
+    {
+        "item_name": "tigris_prime_blueprint",
+        "sellers": 8,
+        "min_sell": 25,
+        "avg_sell": 65.0,
+        "buyers": 2,
+        "max_buy": 25,
+        "avg_buy": 22.5,
+        "web_url": "https://warframe.market/items/tigris_prime_blueprint"
+    },
+    {
+        "item_name": "tigris_prime_set",
+        "sellers": 23,
+        "min_sell": 60,
+        "avg_sell": 96.09,
+        "buyers": 5,
+        "max_buy": 35,
+        "avg_buy": 32.0,
+        "web_url": "https://warframe.market/items/tigris_prime_set"
+    },
+    {
+        "item_name": "sancti_tigris",
+        "sellers": 7,
+        "min_sell": 40,
+        "avg_sell": 41.0,
+        "buyers": 1,
+        "max_buy": 15,
+        "avg_buy": 15.0,
+        "web_url": "https://warframe.market/items/sancti_tigris"
+    },
+    {
+        "item_name": "tipedo_prime_handle",
+        "sellers": 4,
+        "min_sell": 37,
+        "avg_sell": 43.25,
+        "buyers": 4,
+        "max_buy": 25,
+        "avg_buy": 23.75,
+        "web_url": "https://warframe.market/items/tipedo_prime_handle"
+    },
+    {
+        "item_name": "tipedo_prime_blueprint",
+        "sellers": 9,
+        "min_sell": 5,
+        "avg_sell": 12.11,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/tipedo_prime_blueprint"
+    },
+    {
+        "item_name": "tipedo_prime_ornament",
+        "sellers": 2,
+        "min_sell": 12,
+        "avg_sell": 21.0,
+        "buyers": 2,
+        "max_buy": 8,
+        "avg_buy": 7.5,
+        "web_url": "https://warframe.market/items/tipedo_prime_ornament"
+    },
+    {
+        "item_name": "tipedo_prime_set",
+        "sellers": 15,
+        "min_sell": 80,
+        "avg_sell": 103.13,
+        "buyers": 6,
+        "max_buy": 60,
+        "avg_buy": 48.17,
+        "web_url": "https://warframe.market/items/tipedo_prime_set"
+    },
+    {
+        "item_name": "titania_prime_neuroptics",
+        "sellers": 29,
+        "min_sell": 4,
+        "avg_sell": 8.24,
+        "buyers": 8,
+        "max_buy": 4,
+        "avg_buy": 2.38,
+        "web_url": "https://warframe.market/items/titania_prime_neuroptics"
+    },
+    {
+        "item_name": "titania_prime_blueprint",
+        "sellers": 20,
+        "min_sell": 7,
+        "avg_sell": 11.45,
+        "buyers": 5,
+        "max_buy": 3,
+        "avg_buy": 2.2,
+        "web_url": "https://warframe.market/items/titania_prime_blueprint"
+    },
+    {
+        "item_name": "titania_prime_set",
+        "sellers": 48,
+        "min_sell": 39,
+        "avg_sell": 78.21,
+        "buyers": 10,
+        "max_buy": 35,
+        "avg_buy": 28.7,
+        "web_url": "https://warframe.market/items/titania_prime_set"
+    },
+    {
+        "item_name": "titania_prime_chassis",
+        "sellers": 12,
+        "min_sell": 7,
+        "avg_sell": 12.67,
+        "buyers": 3,
+        "max_buy": 7,
+        "avg_buy": 3.67,
+        "web_url": "https://warframe.market/items/titania_prime_chassis"
+    },
+    {
+        "item_name": "titania_prime_systems",
+        "sellers": 7,
+        "min_sell": 24,
+        "avg_sell": 45.29,
+        "buyers": 2,
+        "max_buy": 8,
+        "avg_buy": 8.0,
+        "web_url": "https://warframe.market/items/titania_prime_systems"
+    },
+    {
+        "item_name": "trinity_prime_neuroptics",
+        "sellers": 10,
+        "min_sell": 20,
+        "avg_sell": 29.5,
+        "buyers": 2,
+        "max_buy": 18,
+        "avg_buy": 11.0,
+        "web_url": "https://warframe.market/items/trinity_prime_neuroptics"
+    },
+    {
+        "item_name": "trinity_prime_blueprint",
+        "sellers": 14,
+        "min_sell": 20,
+        "avg_sell": 33.57,
+        "buyers": 2,
+        "max_buy": 12,
+        "avg_buy": 8.0,
+        "web_url": "https://warframe.market/items/trinity_prime_blueprint"
+    },
+    {
+        "item_name": "trinity_prime_set",
+        "sellers": 27,
+        "min_sell": 95,
+        "avg_sell": 122.59,
+        "buyers": 10,
+        "max_buy": 80,
+        "avg_buy": 68.9,
+        "web_url": "https://warframe.market/items/trinity_prime_set"
+    },
+    {
+        "item_name": "trinity_prime_systems",
+        "sellers": 10,
+        "min_sell": 19,
+        "avg_sell": 27.7,
+        "buyers": 1,
+        "max_buy": 4,
+        "avg_buy": 4.0,
+        "web_url": "https://warframe.market/items/trinity_prime_systems"
+    },
+    {
+        "item_name": "trinity_prime_chassis",
+        "sellers": 11,
+        "min_sell": 10,
+        "avg_sell": 19.64,
+        "buyers": 2,
+        "max_buy": 10,
+        "avg_buy": 6.0,
+        "web_url": "https://warframe.market/items/trinity_prime_chassis"
+    },
+    {
+        "item_name": "vasto_prime_set",
+        "sellers": 13,
+        "min_sell": 55,
+        "avg_sell": 86.31,
+        "buyers": 3,
+        "max_buy": 40,
+        "avg_buy": 32.33,
+        "web_url": "https://warframe.market/items/vasto_prime_set"
+    },
+    {
+        "item_name": "vasto_prime_barrel",
+        "sellers": 9,
+        "min_sell": 15,
+        "avg_sell": 28.56,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/vasto_prime_barrel"
+    },
+    {
+        "item_name": "vasto_prime_blueprint",
+        "sellers": 8,
+        "min_sell": 10,
+        "avg_sell": 21.88,
+        "buyers": 2,
+        "max_buy": 5,
+        "avg_buy": 3.5,
+        "web_url": "https://warframe.market/items/vasto_prime_blueprint"
+    },
+    {
+        "item_name": "vasto_prime_receiver",
+        "sellers": 10,
+        "min_sell": 15,
+        "avg_sell": 26.3,
+        "buyers": 2,
+        "max_buy": 12,
+        "avg_buy": 11.0,
+        "web_url": "https://warframe.market/items/vasto_prime_receiver"
+    },
+    {
+        "item_name": "vauban_prime_neuroptics",
+        "sellers": 17,
+        "min_sell": 48,
+        "avg_sell": 67.41,
+        "buyers": 6,
+        "max_buy": 42,
+        "avg_buy": 29.17,
+        "web_url": "https://warframe.market/items/vauban_prime_neuroptics"
+    },
+    {
+        "item_name": "vauban_prime_blueprint",
+        "sellers": 14,
+        "min_sell": 25,
+        "avg_sell": 32.29,
+        "buyers": 6,
+        "max_buy": 20,
+        "avg_buy": 15.17,
+        "web_url": "https://warframe.market/items/vauban_prime_blueprint"
+    },
+    {
+        "item_name": "vauban_prime_chassis",
+        "sellers": 13,
+        "min_sell": 30,
+        "avg_sell": 51.38,
+        "buyers": 7,
+        "max_buy": 25,
+        "avg_buy": 19.14,
+        "web_url": "https://warframe.market/items/vauban_prime_chassis"
+    },
+    {
+        "item_name": "vauban_prime_set",
+        "sellers": 25,
+        "min_sell": 190,
+        "avg_sell": 220.2,
+        "buyers": 20,
+        "max_buy": 180,
+        "avg_buy": 149.5,
+        "web_url": "https://warframe.market/items/vauban_prime_set"
+    },
+    {
+        "item_name": "vauban_prime_systems",
+        "sellers": 15,
+        "min_sell": 70,
+        "avg_sell": 101.13,
+        "buyers": 13,
+        "max_buy": 66,
+        "avg_buy": 49.38,
+        "web_url": "https://warframe.market/items/vauban_prime_systems"
+    },
+    {
+        "item_name": "vectis_prime_stock",
+        "sellers": 8,
+        "min_sell": 32,
+        "avg_sell": 41.38,
+        "buyers": 4,
+        "max_buy": 25,
+        "avg_buy": 15.0,
+        "web_url": "https://warframe.market/items/vectis_prime_stock"
+    },
+    {
+        "item_name": "vectis_prime_barrel",
+        "sellers": 7,
+        "min_sell": 40,
+        "avg_sell": 59.0,
+        "buyers": 7,
+        "max_buy": 30,
+        "avg_buy": 19.0,
+        "web_url": "https://warframe.market/items/vectis_prime_barrel"
+    },
+    {
+        "item_name": "vectis_prime_set",
+        "sellers": 17,
+        "min_sell": 169,
+        "avg_sell": 200.47,
+        "buyers": 10,
+        "max_buy": 155,
+        "avg_buy": 109.9,
+        "web_url": "https://warframe.market/items/vectis_prime_set"
+    },
+    {
+        "item_name": "vectis_prime_receiver",
+        "sellers": 9,
+        "min_sell": 74,
+        "avg_sell": 91.67,
+        "buyers": 11,
+        "max_buy": 80,
+        "avg_buy": 47.09,
+        "web_url": "https://warframe.market/items/vectis_prime_receiver"
+    },
+    {
+        "item_name": "vectis_prime_blueprint",
+        "sellers": 16,
+        "min_sell": 10,
+        "avg_sell": 16.69,
+        "buyers": 3,
+        "max_buy": 8,
+        "avg_buy": 5.33,
+        "web_url": "https://warframe.market/items/vectis_prime_blueprint"
+    },
+    {
+        "item_name": "volt_prime_neuroptics",
+        "sellers": 28,
+        "min_sell": 40,
+        "avg_sell": 81.04,
+        "buyers": 7,
+        "max_buy": 40,
+        "avg_buy": 33.29,
+        "web_url": "https://warframe.market/items/volt_prime_neuroptics"
+    },
+    {
+        "item_name": "volt_prime_chassis",
+        "sellers": 29,
+        "min_sell": 10,
+        "avg_sell": 18.38,
+        "buyers": 2,
+        "max_buy": 5,
+        "avg_buy": 5.0,
+        "web_url": "https://warframe.market/items/volt_prime_chassis"
+    },
+    {
+        "item_name": "voltaic_lance",
+        "sellers": 0,
+        "min_sell": 0,
+        "avg_sell": 0,
+        "buyers": 1,
+        "max_buy": 30,
+        "avg_buy": 30.0,
+        "web_url": "https://warframe.market/items/voltaic_lance"
+    },
+    {
+        "item_name": "volt_prime_blueprint",
+        "sellers": 17,
+        "min_sell": 30,
+        "avg_sell": 49.18,
+        "buyers": 8,
+        "max_buy": 25,
+        "avg_buy": 22.0,
+        "web_url": "https://warframe.market/items/volt_prime_blueprint"
+    },
+    {
+        "item_name": "volt_prime_set",
+        "sellers": 51,
+        "min_sell": 110,
+        "avg_sell": 149.82,
+        "buyers": 22,
+        "max_buy": 115,
+        "avg_buy": 93.82,
+        "web_url": "https://warframe.market/items/volt_prime_set"
+    },
+    {
+        "item_name": "volt_prime_systems",
+        "sellers": 18,
+        "min_sell": 18,
+        "avg_sell": 35.39,
+        "buyers": 4,
+        "max_buy": 15,
+        "avg_buy": 9.25,
+        "web_url": "https://warframe.market/items/volt_prime_systems"
+    },
+    {
+        "item_name": "high_voltage",
+        "sellers": 22,
+        "min_sell": 50,
+        "avg_sell": 69.32,
+        "buyers": 4,
+        "max_buy": 30,
+        "avg_buy": 22.5,
+        "web_url": "https://warframe.market/items/high_voltage"
+    },
+    {
+        "item_name": "voltage_sequence",
+        "sellers": 3,
+        "min_sell": 20,
+        "avg_sell": 33.33,
+        "buyers": 0,
+        "max_buy": 0,
+        "avg_buy": 0,
+        "web_url": "https://warframe.market/items/voltage_sequence"
+    },
+    {
+        "item_name": "voltaic_strike",
+        "sellers": 16,
+        "min_sell": 59,
+        "avg_sell": 92.31,
+        "buyers": 3,
+        "max_buy": 30,
+        "avg_buy": 21.67,
+        "web_url": "https://warframe.market/items/voltaic_strike"
+    },
+    {
+        "item_name": "wukong_prime_neuroptics",
+        "sellers": 16,
+        "min_sell": 7,
+        "avg_sell": 14.56,
+        "buyers": 2,
+        "max_buy": 6,
+        "avg_buy": 6.0,
+        "web_url": "https://warframe.market/items/wukong_prime_neuroptics"
+    },
+    {
+        "item_name": "wukong_prime_chassis",
+        "sellers": 13,
+        "min_sell": 10,
+        "avg_sell": 17.08,
+        "buyers": 2,
+        "max_buy": 7,
+        "avg_buy": 4.5,
+        "web_url": "https://warframe.market/items/wukong_prime_chassis"
+    },
+    {
+        "item_name": "wukong_prime_set",
+        "sellers": 54,
+        "min_sell": 88,
+        "avg_sell": 113.91,
+        "buyers": 12,
+        "max_buy": 85,
+        "avg_buy": 68.92,
+        "web_url": "https://warframe.market/items/wukong_prime_set"
+    },
+    {
+        "item_name": "wukong_prime_blueprint",
+        "sellers": 17,
+        "min_sell": 49,
+        "avg_sell": 60.82,
+        "buyers": 9,
+        "max_buy": 33,
+        "avg_buy": 28.67,
+        "web_url": "https://warframe.market/items/wukong_prime_blueprint"
+    },
+    {
+        "item_name": "wukong_prime_systems",
+        "sellers": 7,
+        "min_sell": 10,
+        "avg_sell": 26.14,
+        "buyers": 4,
+        "max_buy": 9,
+        "avg_buy": 6.0,
+        "web_url": "https://warframe.market/items/wukong_prime_systems"
+    },
+    {
+        "item_name": "wyrm_prime_blueprint",
+        "sellers": 5,
+        "min_sell": 12,
+        "avg_sell": 35.2,
+        "buyers": 1,
+        "max_buy": 10,
+        "avg_buy": 10.0,
+        "web_url": "https://warframe.market/items/wyrm_prime_blueprint"
+    },
+    {
+        "item_name": "wyrm_prime_systems",
+        "sellers": 6,
+        "min_sell": 60,
+        "avg_sell": 89.0,
+        "buyers": 7,
+        "max_buy": 45,
+        "avg_buy": 29.57,
+        "web_url": "https://warframe.market/items/wyrm_prime_systems"
+    },
+    {
+        "item_name": "wyrm_prime_carapace",
+        "sellers": 6,
+        "min_sell": 15,
+        "avg_sell": 26.5,
+        "buyers": 3,
+        "max_buy": 10,
+        "avg_buy": 10.0,
+        "web_url": "https://warframe.market/items/wyrm_prime_carapace"
+    },
+    {
+        "item_name": "wyrm_prime_cerebrum",
+        "sellers": 10,
+        "min_sell": 28,
+        "avg_sell": 49.7,
+        "buyers": 5,
+        "max_buy": 20,
+        "avg_buy": 17.2,
+        "web_url": "https://warframe.market/items/wyrm_prime_cerebrum"
+    },
+    {
+        "item_name": "wyrm_prime_set",
+        "sellers": 17,
+        "min_sell": 140,
+        "avg_sell": 175.0,
+        "buyers": 14,
+        "max_buy": 125,
+        "avg_buy": 93.71,
+        "web_url": "https://warframe.market/items/wyrm_prime_set"
+    },
+    {
+        "item_name": "zhuge_prime_grip",
+        "sellers": 5,
+        "min_sell": 6,
+        "avg_sell": 11.6,
+        "buyers": 1,
+        "max_buy": 3,
+        "avg_buy": 3.0,
+        "web_url": "https://warframe.market/items/zhuge_prime_grip"
+    },
+    {
+        "item_name": "zhuge_prime_blueprint",
+        "sellers": 8,
+        "min_sell": 4,
+        "avg_sell": 10.5,
+        "buyers": 2,
+        "max_buy": 2,
+        "avg_buy": 2.0,
+        "web_url": "https://warframe.market/items/zhuge_prime_blueprint"
+    },
+    {
+        "item_name": "zhuge_prime_receiver",
+        "sellers": 5,
+        "min_sell": 14,
+        "avg_sell": 23.2,
+        "buyers": 2,
+        "max_buy": 8,
+        "avg_buy": 5.0,
+        "web_url": "https://warframe.market/items/zhuge_prime_receiver"
+    },
+    {
+        "item_name": "zhuge_prime_set",
+        "sellers": 17,
+        "min_sell": 45,
+        "avg_sell": 88.29,
+        "buyers": 2,
+        "max_buy": 41,
+        "avg_buy": 36.5,
+        "web_url": "https://warframe.market/items/zhuge_prime_set"
+    },
+    {
+        "item_name": "zhuge_prime_barrel",
+        "sellers": 8,
+        "min_sell": 20,
+        "avg_sell": 39.75,
+        "buyers": 2,
+        "max_buy": 10,
+        "avg_buy": 8.5,
+        "web_url": "https://warframe.market/items/zhuge_prime_barrel"
+    },
+    {
+        "item_name": "zhuge_prime_string",
+        "sellers": 6,
+        "min_sell": 8,
+        "avg_sell": 16.33,
+        "buyers": 2,
+        "max_buy": 5,
+        "avg_buy": 3.5,
+        "web_url": "https://warframe.market/items/zhuge_prime_string"
+    }
+]
